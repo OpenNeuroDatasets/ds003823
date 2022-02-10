@@ -4,7 +4,6 @@
   "DatasetType": "raw",
   "License": "CC0",
   "Authors": [
-    "Mara Mather",
     "Kaoru Nashiro",
     "Hyun Joo Yoo",
     "Jungwon Min",
@@ -13,7 +12,8 @@
     "Padideh Nasseri",
     "Shai Porat",
     "Shubir Dutt",
-    "Noah Mercer"
+    "Noah Mercer",
+    "Mara Mather",
   ],
   "Acknowledgements": "N/A",
   "HowToAcknowledge": "Please cite this paper: https://XXXXXXX",
