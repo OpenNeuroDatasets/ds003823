@@ -1,11 +1,13 @@
 
 Heart Rate Variability and Emotion Regulation (HRV-ER)
 
-Previous research suggests that heart rate variability (HRV) biofeedback aimed at increasing HRV can reduce anxiety and stress. However, some mental quiescence practices that reduce HRV during the practice sessions also lead to positive emotional outcomes. Thus, it is not obvious that the benefits of HRV-biofeedback accrue due to increasing HRV during the session. An alternative possibility is that the benefits arise from engaging prefrontal control over heart rate. In this study, the investigators will test two possible mechanisms of the effects of HRV on emotional health by comparing two groups. In one group, participants will be asked to engage in daily training to decrease HRV using the HRV biofeedback device. In the other group, participants will be asked to engage in daily training to increase HRV using the HRV biofeedback device. This will allow analyses to pit two possible mechanisms against each other:
+Previous research suggests that heart rate variability (HRV) biofeedback aimed at increasing HRV can reduce anxiety and stress. The current project investigated the brain mechanisms underlying these effects, with the primary hypothesis being that inducing high amplitude heart rate oscillations via slow paced breathing and HRV biofeedback would increase functional connectivity within brain emotion-related networks, including between amygdala and mPFC. The effects of two 5-weeks interventions were compared: 1) Increase-Oscillations (Osc+), in which participants completed two daily sessions involving slow paced breathing and HRV biofeedback aimed at increasing heart rate oscillation; 2) Decrease-Oscillations (Osc-), in which participants completed two daily sessions involving individualized strategies and HRV biofeedback aimed at decreasing heart rate oscillation.
 
 Mechanism 1: engaging prefrontal control over heart rate is the critical factor that allows HRV biofeedback to help improve well-being. In this case, well-being should increase over time in both groups, as both training should engage prefrontal cortex to implement self-directed control over heart rate. Strengthening prefrontal control mechanisms may help improve emotion regulation in everyday life.
 Mechanism 2: increased HRV during the training sessions leads to greater functional connectivity among brain regions associated with emotion regulation during the high HRV state. In this case, improved well-being would be specifically associated with having time each day during which there were very high HRV states, and so improved well-being should be seen only in the group in which participants get biofeedback to increase HRV.
+
 ----------------------------------
+
 Study design:
 Study Type  : Interventional  (Clinical Trial)
 Actual Enrollment  : 193 participants
@@ -23,7 +25,11 @@ Actual Study Completion Date : May 5, 2020
 
 Publications using this dataset:
 
-Nashiro, K., Min, J., Yoo, H. J., Cho, C., Bachman, S. L., Dutt, S., ... & Mather, M. (2021). Enhancing the brain's emotion regulation capacity with a randomised trial of a 5-week heart rate variability biofeedback intervention. medRxiv.
+Nashiro, K., Min, J., Yoo, H. J., Cho, C., Bachman, S. L., Dutt, S., ... & Mather, M. (2021). Enhancing the brain’s emotion regulation capacity with a randomised trial of a 5-week heart rate variability biofeedback intervention. medRxiv.
+
+Min, J., Nashiro, K., Yoo, H. J., Cho, C., Nasseri, P., Bachman, S. L., Porat, S., Thayer, J. F., Chang, C., Lee, T. H. & Mather, M. (2022). Emotion down-regulation targets interoceptive brain regions while emotion up-regulation targets other affective brain regions. Journal of Neuroscience.
+
+Bachman, S. L., Cole, S., Yoo, H. J., Nashiro, K. N., Min, J., Mercer, N., Nasseri, P., Thayer, J. F., Lehrer, P. & Mather, M. (2022). Daily heart rate variability biofeedback training decreases locus coeruleus MRI contrast in younger adults. medRxiv.
 
 ----------------------------------
 
