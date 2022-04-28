@@ -1,0 +1,39 @@
+NOTE: This is the first release version that includes just baseline data corresponding with the Min et al., (2022) published findings.
+
+Heart Rate Variability and Emotion Regulation (HRV-ER)
+
+Previous research suggests that heart rate variability (HRV) biofeedback aimed at increasing HRV can reduce anxiety and stress. The current project investigated the brain mechanisms underlying these effects, with the primary hypothesis being that inducing high amplitude heart rate oscillations via slow paced breathing and HRV biofeedback would increase functional connectivity within brain emotion-related networks, including between amygdala and mPFC. The effects of two 5-weeks interventions were compared: 1) Increase-Oscillations (Osc+), in which participants completed two daily sessions involving slow paced breathing and HRV biofeedback aimed at increasing heart rate oscillation; 2) Decrease-Oscillations (Osc-), in which participants completed two daily sessions involving individualized strategies and HRV biofeedback aimed at decreasing heart rate oscillation.
+
+----------------------------------
+
+Study design:
+Study Type  : Interventional  (Clinical Trial)
+Actual Enrollment  : 193 participants
+Sessions: 2 MRI sessions (additional lab biofeedback calibration data included as a third "session" here in this database). The study also involved multiple lab visits.
+Allocation: Randomized
+Intervention Model: Parallel Assignment
+Intervention Model Description: Participants will be randomly assigned to either the HRV-increase group or the HRV-decrease group.
+Masking:	Single (Participant)
+Primary Purpose:	Basic Science
+Official Title: Why Does Heart Rate Variability Matter for Emotion Regulation
+Actual Study Start Date: February 14, 2018
+Actual Primary Completion Date :	March 13, 2020
+Actual Study Completion Date : May 5, 2020
+
+----------------------------------
+
+Publications using this dataset:
+
+Nashiro, K., Min, J., Yoo, H. J., Cho, C., Bachman, S. L., Dutt, S., ... & Mather, M. (2021). Enhancing the brain’s emotion regulation capacity with a randomised trial of a 5-week heart rate variability biofeedback intervention. medRxiv.
+
+Min, J., Nashiro, K., Yoo, H. J., Cho, C., Nasseri, P., Bachman, S. L., Porat, S., Thayer, J. F., Chang, C., Lee, T. H. & Mather, M. (2022). Emotion down-regulation targets interoceptive brain regions while emotion up-regulation targets other affective brain regions. Journal of Neuroscience.
+
+Bachman, S. L., Cole, S., Yoo, H. J., Nashiro, K. N., Min, J., Mercer, N., Nasseri, P., Thayer, J. F., Lehrer, P. & Mather, M. (2022). Daily heart rate variability biofeedback training decreases locus coeruleus MRI contrast in younger adults. medRxiv.
+
+----------------------------------
+
+
+If you have any questions, please contact:
+- Mara Mather mara.mather@usc.edu
+- Kaoru Nashiro nashiro@usc.edu
+- Hyun Joo Yoo hyunjooy@usc.edu
