@@ -1,8 +1,0 @@
-participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
-5015	1	1	1	A_Coffee_Mug	B	Objects_237_h	Neutral	1
-5015	1	1	2	A_horse_with_a_foal	B	NO	n/a	0
-5015	1	1	3	A_dead_rat	B	NO	n/a	0
-5015	1	1	4	A_small_shelter_kind_of_house_in_a_farm_area	B	Landscapes_019_h	Neutral	1
-5015	1	1	5	A_Valley_viewed_from_behind_a_fence	B	People_082_h	Negative	1
-5015	1	1	6	A_mining_site	B	Landscapes_060_h	Neutral	1
-5015	1	1	7	A_piece_of_Pizza	B	Objects_078_h	Positive	1
