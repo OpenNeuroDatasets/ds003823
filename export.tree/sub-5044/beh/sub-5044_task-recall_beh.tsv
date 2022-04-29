@@ -1,0 +1,14 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+5044	1	1	1	A_dead_fish_floating_on_the_surface_of_water	A	Animals_064_v	Negative	1
+5044	1	1	2	Several_teenagers_are_practicing_skateboarding_on_a_playground	A	People_175_h	Positive	1
+5044	1	1	3	A_man_and_a_dog_are_sitting_on_the_stairs_desperately	A	People_149_h	Neutral	1
+5044	1	1	4	Bunch_of_withered_flower_on_the_floor	A	Objects_112_h	Neutral	1
+5044	1	1	5	A_women_in_certain_kind_of_costume	A	NO	n/a	0
+5044	1	1	6	Smelly_water_with_green_bubble_on_it	A	Landscapes_004_h	Negative	1
+5044	1	1	7	Some_shabby_houses_are_scattered_along_a_mud_road	A	Landscapes_010_h	Negative	1
+5044	1	1	8	A_dog_looks_sad_is_grovelling_on_the_floor	A	Animals_049_h	Negative	1
+5044	1	1	9	Some_children_are_smiling	A	Faces_134_h	Positive	1
+5044	1	1	10	A_black_man_in_clean_suit_standing_with_no_expression_on_his_face	A	Faces_187_v	Neutral	1
+5044	1	1	11	A_woman_with_her_face_twisty	A	NO	n/a	0
+5044	1	1	12	Rubbish_are_scattered_along_the_railroad_in_the_forest	A	Landscapes_028_h	Negative	1
+5044	1	1	13	Short_bridge_with_light_poles_leaning_on_it	A	Landscapes_012_h	Neutral	1

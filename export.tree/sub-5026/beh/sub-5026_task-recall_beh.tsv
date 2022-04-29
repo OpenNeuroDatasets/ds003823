@@ -1,0 +1,11 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+5026	1	1	1	dead_fish_in_the_pond	A	Animals_064_v	Negative	1
+5026	1	1	2	man_sleeping_on_the_street_side_with_a_dog	A	People_149_h	Neutral	1
+5026	1	1	3	hawaiian_party	A	Faces_234_h	Positive	1
+5026	1	1	4	crying_woman	A	Faces_175_v	Negative	1
+5026	1	1	5	African_traditional_woman	A	Faces_261_v	Positive	1
+5026	1	1	6	African_American_man	A	Faces_187_v	Neutral	1
+5026	1	1	7	plant_growing_in_pond	A	Landscapes_111_h	Neutral	1
+5026	1	1	8	people_sleeping_on_the_street_side	A	People_119_h	Negative	1
+5026	1	1	9	children_jumping_in_the_pool	A	Faces_134_h	Positive	1
+5026	1	1	10	boy_jumping_in_the_pool	A	People_196_h	Positive	1
