@@ -48,7 +48,6 @@ Data type
 5.	HRV data-: lab calibration, Home training
 6.	Stress task: Physiological data, Behavioral data
 7.	MRI data: 
-
      a.	Anatomical-T1
      b.	Anatomical-TSE
      c.	Anatomical-MRS
@@ -58,7 +57,6 @@ Data type
      g.	Functional-UG
      h.	Functional-ASL resting-state scan
      i.		Functional-ASL training mimicking
-
 
 
 Data description
