@@ -38,6 +38,8 @@ Yoo, H. J., Nashiro, K., Min, J., Cho, C., Bachman, S., Nasseri, P., Porat, S., 
 
 ----------------------------------
 Data type
+
+
 1.	Questionnaire: self reported behavior and emotion
 2.	Sleep data: Sleep time measured by whoop
 3.	Cognitive task: NIH toolbox-Cognition, SART
@@ -55,7 +57,9 @@ Data type
      h.	Functional-ASL resting-state scan
      i.		Functional-ASL training mimicking
 
+
 Data description
+
 At the root level of the dataset, participant demographic information, including sex, and handedness, and age group is provided in the participants.tsv file and these variables are further described in the accompanying data dictionary, participants.json. The file also indicates which of the different tasks, physiological data, and MRI scans are available for each participant at each time point. This information is organized into 33 columns containing “1” (data exist) or “0” (missing data) for all measures at each session (i.e. ses-pre_task-emotionRegulation; ses-post_task-emotionRegulation). Also, we organized the information about data quality in 15 columns containing “1” (recommend excluding) or “0” (recommend including) for MRI or physiological measures at each session.
 We organized the rest of the participants’ data in three ways: phenyotype, subject folders, and derivatives folder
 1) “Phenotype”: This folder includes files that list all participants’ scores on standardized tests at each time point and participants’ responses to emotion questionnaires at each time-point (with one row per participant)
