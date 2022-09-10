@@ -1,5 +1,3 @@
-NOTE: This is the first release version that includes just baseline data corresponding with the Min et al., (2022) published findings.
-
 Heart Rate Variability and Emotion Regulation (HRV-ER)
 
 Previous research suggests that heart rate variability (HRV) biofeedback aimed at increasing HRV can reduce anxiety and stress. The current project investigated the brain mechanisms underlying these effects, with the primary hypothesis being that inducing high amplitude heart rate oscillations via slow paced breathing and HRV biofeedback would increase functional connectivity within brain emotion-related networks, including between amygdala and mPFC. The effects of two 5-weeks interventions were compared: 1) Increase-Oscillations (Osc+), in which participants completed two daily sessions involving slow paced breathing and HRV biofeedback aimed at increasing heart rate oscillation; 2) Decrease-Oscillations (Osc-), in which participants completed two daily sessions involving individualized strategies and HRV biofeedback aimed at decreasing heart rate oscillation.
@@ -9,7 +7,7 @@ Previous research suggests that heart rate variability (HRV) biofeedback aimed a
 Study design:
 Study Type  : Interventional  (Clinical Trial)
 Actual Enrollment  : 193 participants
-Sessions: 2 MRI sessions (additional lab biofeedback calibration data included as a third "session" here in this database). The study also involved multiple lab visits.
+Sessions: 2 MRI sessions and 2 HRV data (lab biofeedback calibration data as the third "session" and home practice data as the forth session). The study also involved multiple lab visits.
 Allocation: Randomized
 Intervention Model: Parallel Assignment
 Intervention Model Description: Participants will be randomly assigned to either the HRV-increase group or the HRV-decrease group.
