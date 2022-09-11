@@ -1,0 +1,17 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+8004	2	2	1	colors_of_the_parachute	A	People_183_h	Positive	1
+8004	2	2	2	colrs_of_the_ferris_wheel	A	Objects_264_v	Positive	1
+8004	2	2	3	the_smiling_face_of_the_children_at_the_pool	A	Faces_134_h	Positive	1
+8004	2	2	4	the_chocolate_cakes	A	Objects_080_h	Positive	1
+8004	2	2	5	The_profile_of_the_blackman_in_a_suit	A	Faces_187_v	Neutral	1
+8004	2	2	6	the_woman_with_a_tear_coming_from_her_eye	A	Faces_175_v	Negative	1
+8004	2	2	7	the_closeup_of_a_fish_with_big_lips	A	Animals_088_h	Neutral	1
+8004	2	2	8	the_sight_of_the_diead_fish	A	Animals_064_v	Negative	1
+8004	2	2	9	the_thermameter_below_o	A	Objects_186_v	Neutral	1
+8004	2	2	10	the_overpath_next_to_the_road	A	Landscapes_012_h	Neutral	1
+8004	2	2	11	early_morning_of_the_houses	A	NO	n/a	0
+8004	2	2	12	the_people_that_were_lying_on_the_ground	A	People_119_h	Negative	1
+8004	2	2	13	the_old_man_sitting_on_the_steps_and_the_cat_sleeping_on_the_steps	A	NO	n/a	0
+8004	2	2	14	the_truck_going_up_a_dirt_hill	A	Objects_291_h	Positive	1
+8004	2	2	15	the_colors_of_the_three_story_building	A	Landscapes_016_h	Neutral	1
+8004	2	2	16	the_closeup_of_the_moth	A	Animals_106_h	Positive	1
