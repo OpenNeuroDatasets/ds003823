@@ -1,0 +1,8 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+7011	1	2	1	Paraglider_gliding_in_air	B	People_189_h	Positive	1
+7011	1	2	2	Shack_in_the_middle_of_a_farmland	B	Landscapes_019_h	Neutral	1
+7011	1	2	3	Dog_catching_a_frisbee	B	Animals_175_h	Positive	1
+7011	1	2	4	Boy_laying_in_a_hospital_bed_with_an_oxygen_tube	B	Faces_011_h	Negative	1
+7011	1	2	5	Old_man_looking_bewildered	B	NO	n/a	0
+7011	1	2	6	Litter_on_the_coastline	B	NO	n/a	0
+7011	1	2	7	Soccer_players_celebrating_a_goal_or_victory	B	Faces_321_h	Positive	1

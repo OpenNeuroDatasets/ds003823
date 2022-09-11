@@ -1,0 +1,4 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+7021	1	2	1	fish_floating_in_water_dead	A	Animals_064_v	Negative	1
+7021	1	2	2	kids_jumping_into_public_pool	A	Faces_134_h	Positive	1
+7021	1	2	3	male_diving_into_public_pool_from_side_of_pool	A	People_196_h	Positive	1
