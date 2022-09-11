@@ -1,0 +1,17 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+5062	1	1	1	a_dog_with_stitches_on_it's_tummy_the_fur_had_been_shaved_off_in_that_portion_and_its_foot_was_bandaged	A	Animals_049_h	Negative	1
+5062	1	1	2	a_temperature(or_maybe_pressure)_measuring_device_fixed_on_a_cemented_wall	A	Objects_186_v	Neutral	1
+5062	1	1	3	a_railway_track_with_lots_and_lots_of_empty_broken_green_glass(_maybe_from_some_bottles)	A	Landscapes_028_h	Negative	1
+5062	1	1	4	a_man_in_a_turban_taking_a_nap_on_some_stairs_a_dog_is_also_seen_lying_at_his_feet	A	People_149_h	Neutral	1
+5062	1	1	5	many_men_rest_on_the_floor_of_a_room_some_are_shirtless	A	People_119_h	Negative	1
+5062	1	1	6	a_beautiful_and_bald_lady_with_lots_of_beaded_jewelery_she_is_beaming_at_the_camera	A	Faces_261_v	Positive	1
+5062	1	1	7	a_woman_with_a_disfigured_nose	A	Faces_151_v	Negative	1
+5062	1	1	8	a_man_of_african_descent_with_a_mustache	A	Faces_187_v	Neutral	1
+5062	1	1	9	a_pond_with_stagnant_water_and_a_rotting_dead_fish	A	Animals_064_v	Negative	1
+5062	1	1	10	an_orange_fish_with_something_that_looks_like_a_boil_on_its_head(_it_may_be_a_goldfish)	A	Animals_088_h	Neutral	1
+5062	1	1	11	a_pimple_on_a_person's_lower_left_lip	A	People_197_h	Negative	1
+5062	1	1	12	the_scenery_of_some_place_that_looks_like_a_village_or_countryside_it_had_muddy_roads	A	Landscapes_010_h	Negative	1
+5062	1	1	13	a_small_black_dog_tied_with_a_loose_leash_to_something_that_looked_like_a_pipe	A	Animals_209_h	Neutral	1
+5062	1	1	14	two_children_(girls)_are_jumping_into_a_pool	A	Faces_134_h	Positive	1
+5062	1	1	15	a_man_diving_into_a_pool_but_we_can_only_see_his_back_and_not_his_face	A	People_196_h	Positive	1
+5062	1	1	16	a_broken_bridge	A	Landscapes_012_h	Neutral	1

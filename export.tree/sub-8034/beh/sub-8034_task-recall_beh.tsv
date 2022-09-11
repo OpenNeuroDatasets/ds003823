@@ -1,0 +1,10 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+8034	2	2	1	Man_ocean_surf	B	NO	n/a	0
+8034	2	2	2	beautiful_sky	B	NO	n/a	0
+8034	2	2	3	beautiful_butterfly	B	Animals_093_h	Neutral	1
+8034	2	2	4	Trash_can_on_the_street	B	Objects_188_v	Negative	1
+8034	2	2	5	children_play_at_pool	B	NO	n/a	0
+8034	2	2	6	sick_boy_at_hospital	B	Faces_011_h	Negative	1
+8034	2	2	7	manufactory_junk	B	NO	n/a	0
+8034	2	2	8	Air_pollution	B	NO	n/a	0
+8034	2	2	9	old_man_along_by_himself_setting_on_the_chair	B	People_159_h	Neutral	1

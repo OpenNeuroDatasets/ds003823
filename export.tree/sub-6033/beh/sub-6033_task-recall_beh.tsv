@@ -1,0 +1,4 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+6033	2	1	1	black_man_in_a_suit	A	Faces_187_v	Neutral	1
+6033	2	1	2	man_sitting_on_steps_with_a_dog_laying_in_the_ground_near_by	A	People_149_h	Neutral	1
+6033	2	1	3	dirty_toilet	A	Objects_110_v	Negative	1
