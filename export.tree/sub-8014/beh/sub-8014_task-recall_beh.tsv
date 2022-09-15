@@ -1,8 +1,0 @@
-participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
-8014	2	2	1	Black_Man_-staring	A	Faces_187_v	Neutral	1
-8014	2	2	2	Dead_Fish_floating_on_water	A	Animals_064_v	Negative	1
-8014	2	2	3	Fish_swimming	A	Animals_088_h	Neutral	1
-8014	2	2	4	Poverty-men_standing_in_ghetto	A	NO	n/a	0
-8014	2	2	5	Old_cars_-looked_like_they_were_in_Cuba	A	NO	n/a	0
-8014	2	2	6	children_playing	A	NO	n/a	0
-8014	2	2	7	looked_like_Adult_discussing	A	NO	n/a	0
