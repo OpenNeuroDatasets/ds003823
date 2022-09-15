@@ -1,0 +1,5 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+5037	1	1	1	child_going_down_a_water_slide	B	Faces_132_h	Positive	1
+5037	1	1	2	animal_carcass	B	Animals_017_v	Negative	1
+5037	1	1	3	abandoned_house_on_a_hill	B	NO	n/a	0
+5037	1	1	4	beetle_on_a_leaf	B	Animals_082_h	Neutral	1
