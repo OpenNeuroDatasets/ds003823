@@ -1,516 +1,570 @@
 {
-    "participant_id":{
-        "Description":"participant_id",
-        "Units":""
-    },
-    "age_group":{
-        "Description":"group by age",
-        "Levels":{
-            "YA":"younger adults",
-            "OA":"older adults"
-        }
-    },
-    "condition":{
-        "Description":"experimental condition",
-        "Levels":{
-            "increase":"HRV oscillation increase condition",
-            "decrease":"HRV oscillation decrease conditions"
-        }
-    },
-    "cesd_Total_w1":{
-        "Description":"total score of center for epidemiological studies depression on week 1",
-        "Units":""
-    },
-    "cesd_Total_w2":{
-        "Description":"total score of center for epidemiological studies depression on week 2",
-        "Units":""
-    },
-    "cesd_Total_w6":{
-        "Description":"total score of center for epidemiological studies depression on week 6",
-        "Units":""
-    },
-    "cesd_Total_w7":{
-        "Description":"total score of center for epidemiological studies depression on week 7",
-        "Units":""
-    },
-    "tai_Total_w1":{
-        "Description":"total score of trait anxiety inventory on week 1",
-        "Units":""
-    },
-    "tai_Total_w2":{
-        "Description":"total score of trait anxiety inventory on week 2",
-        "Units":""
-    },
-    "tai_Total_w6":{
-        "Description":"total score of trait anxiety inventory on week 6",
-        "Units":""
-    },
-    "tai_Total_w7":{
-        "Description":"total score of trait anxiety inventory on week 7",
-        "Units":""
-    },
-    "sai_Total_w1":{
-        "Description":"total score of state anxiety inventory on week 1",
-        "Units":""
-    },
-    "sai_Total_w2":{
-        "Description":"total score of state anxiety inventory on week 2",
-        "Units":""
-    },
-    "sai_Total_w3":{
-        "Description":"total score of state anxiety inventory on week 3",
-        "Units":""
-    },
-    "sai_Total_w4":{
-        "Description":"total score of state anxiety inventory on week 4",
-        "Units":""
-    },
-    "sai_Total_w5":{
-        "Description":"total score of state anxiety inventory on week 5",
-        "Units":""
-    },
-    "sai_Total_w6":{
-        "Description":"total score of state anxiety inventory on week 6",
-        "Units":""
-    },
-    "sai_Total_w7":{
-        "Description":"total score of state anxiety inventory on week 7",
-        "Units":""
-    },
-    "poms_tension_w1":{
-        "Description":"score of the tension-anxiety subscale of the profile of mood states on week 1",
-        "Units":""
-    },
-    "poms_anger_w1":{
-        "Description":"score of the anger subscale of the profile of mood states on week 1",
-        "Units":""
-    },
-    "poms_fatigue_w1":{
-        "Description":"score of the fatigue subscale of the profile of mood states on week 1",
-        "Units":""
-    },
-    "poms_depression_w1":{
-        "Description":"score of the depression subscale of the profile of mood states on week 1",
-        "Units":""
-    },
-    "poms_esteem_related_afftect_w1":{
-        "Description":"score of the esteem-related affect subscale of the profile of mood states on week 1",
-        "Units":""
-    },
-    "poms_vigour_w1":{
-        "Description":"score of the vigour subscale of the profile of mood states on week 1",
-        "Units":""
-    },
-    "poms_confusion_w1":{
-        "Description":"score of the confusion subscale of the profile of mood states on week 1",
-        "Units":""
-    },
-    "poms_Total_w1":{
-        "Description":"total score of the profile of mood states on week 1",
-        "Units":""
-    },
-    "poms_tension_w2":{
-        "Description":"score of the tension-anxiety subscale of the profile of mood states on week 2",
-        "Units":""
-    },
-    "poms_anger_w2":{
-        "Description":"score of the anger subscale of the profile of mood states on week 2",
-        "Units":""
-    },
-    "poms_fatigue_w2":{
-        "Description":"score of the fatigue subscale of the profile of mood states on week 2",
-        "Units":""
-    },
-    "poms_depression_w2":{
-        "Description":"score of the depression subscale of the profile of mood states on week 2",
-        "Units":""
-    },
-    "poms_esteem_related_afftect_w2":{
-        "Description":"score of the esteem-related affect subscale of the profile of mood states on week 2",
-        "Units":""
-    },
-    "poms_vigour_w2":{
-        "Description":"score of the vigour subscale of the profile of mood states on week 2",
-        "Units":""
-    },
-    "poms_confusion_w2":{
-        "Description":"score of the confusion subscale of the profile of mood states on week 2",
-        "Units":""
-    },
-    "poms_Total_w2":{
-        "Description":"total score of the profile of mood states on week 2",
-        "Units":""
-    },
-    "poms_tension_w3":{
-        "Description":"score of the tension-anxiety subscale of the profile of mood states on week 3",
-        "Units":""
-    },
-    "poms_anger_w3":{
-        "Description":"score of the anger subscale of the profile of mood states on week 3",
-        "Units":""
-    },
-    "poms_fatigue_w3":{
-        "Description":"score of the fatigue subscale of the profile of mood states on week 3",
-        "Units":""
-    },
-    "poms_depression_w3":{
-        "Description":"score of the depression subscale of the profile of mood states on week 3",
-        "Units":""
-    },
-    "poms_esteem_related_afftect_w3":{
-        "Description":"score of the esteem-related affect subscale of the profile of mood states on week 3",
-        "Units":""
-    },
-    "poms_vigour_w3":{
-        "Description":"score of the vigour subscale of the profile of mood states on week 3",
-        "Units":""
-    },
-    "poms_confusion_w3":{
-        "Description":"score of the confusion subscale of the profile of mood states on week 3",
-        "Units":""
-    },
-    "poms_Total_w3":{
-        "Description":"total score of the profile of mood states on week 3",
-        "Units":""
-    },
-    "poms_tension_w4":{
-        "Description":"score of the tension-anxiety subscale of the profile of mood states on week 4",
-        "Units":""
-    },
-    "poms_anger_w4":{
-        "Description":"score of the anger subscale of the profile of mood states on week 4",
-        "Units":""
-    },
-    "poms_fatigue_w4":{
-        "Description":"score of the fatigue subscale of the profile of mood states on week 4",
-        "Units":""
-    },
-    "poms_depression_w4":{
-        "Description":"score of the depression subscale of the profile of mood states on week 4",
-        "Units":""
-    },
-    "poms_esteem_related_afftect_w4":{
-        "Description":"score of the esteem-related affect subscale of the profile of mood states on week 4",
-        "Units":""
-    },
-    "poms_vigour_w4":{
-        "Description":"score of the vigour subscale of the profile of mood states on week 4",
-        "Units":""
-    },
-    "poms_confusion_w4":{
-        "Description":"score of the confusion subscale of the profile of mood states on week 4",
-        "Units":""
-    },
-    "poms_Total_w4":{
-        "Description":"total score of the profile of mood states on week 4",
-        "Units":""
-    },
-    "poms_tension_w5":{
-        "Description":"score of the tension-anxiety subscale of the profile of mood states on week 5",
-        "Units":""
-    },
-    "poms_anger_w5":{
-        "Description":"score of the anger subscale of the profile of mood states on week 5",
-        "Units":""
-    },
-    "poms_fatigue_w5":{
-        "Description":"score of the fatigue subscale of the profile of mood states on week 5",
-        "Units":""
-    },
-    "poms_depression_w5":{
-        "Description":"score of the depression subscale of the profile of mood states on week 5",
-        "Units":""
-    },
-    "poms_esteem_related_afftect_w5":{
-        "Description":"score of the esteem-related affect subscale of the profile of mood states on week 5",
-        "Units":""
-    },
-    "poms_vigour_w5":{
-        "Description":"score of the vigour subscale of the profile of mood states on week 5",
-        "Units":""
-    },
-    "poms_confusion_w5":{
-        "Description":"score of the confusion subscale of the profile of mood states on week 5",
-        "Units":""
-    },
-    "poms_Total_w5":{
-        "Description":"total score of the profile of mood states on week 5",
-        "Units":""
-    },
-    "poms_tension_w6":{
-        "Description":"score of the tension-anxiety subscale of the profile of mood states on week 6",
-        "Units":""
-    },
-    "poms_anger_w6":{
-        "Description":"score of the anger subscale of the profile of mood states on week 6",
-        "Units":""
-    },
-    "poms_fatigue_w6":{
-        "Description":"score of the fatigue subscale of the profile of mood states on week 6",
-        "Units":""
-    },
-    "poms_depression_w6":{
-        "Description":"score of the depression subscale of the profile of mood states on week 6",
-        "Units":""
-    },
-    "poms_esteem_related_afftect_w6":{
-        "Description":"score of the esteem-related affect subscale of the profile of mood states on week 6",
-        "Units":""
-    },
-    "poms_vigour_w6":{
-        "Description":"score of the vigour subscale of the profile of mood states on week 6",
-        "Units":""
-    },
-    "poms_confusion_w6":{
-        "Description":"score of the confusion subscale of the profile of mood states on week 6",
-        "Units":""
-    },
-    "poms_Total_w6":{
-        "Description":"total score of the profile of mood states on week 6",
-        "Units":""
-    },
-    "poms_tension_w7":{
-        "Description":"score of the tension-anxiety subscale of the profile of mood states on week 7",
-        "Units":""
-    },
-    "poms_anger_w7":{
-        "Description":"score of the anger subscale of the profile of mood states on week 7",
-        "Units":""
-    },
-    "poms_fatigue_w7":{
-        "Description":"score of the fatigue subscale of the profile of mood states on week 7",
-        "Units":""
-    },
-    "poms_depression_w7":{
-        "Description":"score of the depression subscale of the profile of mood states on week 7",
-        "Units":""
-    },
-    "poms_esteem_related_afftect_w7":{
-        "Description":"score of the esteem-related affect subscale of the profile of mood states on week 7",
-        "Units":""
-    },
-    "poms_vigour_w7":{
-        "Description":"score of the vigour subscale of the profile of mood states on week 7",
-        "Units":""
-    },
-    "poms_confusion_w7":{
-        "Description":"score of the confusion subscale of the profile of mood states on week 7",
-        "Units":""
-    },
-    "poms_Total_w7":{
-        "Description":"total score of the profile of mood states on week 7",
-        "Units":""
-    },
-    "ffmq_Observe_w1":{
-        "Description":"score of the observe subscale of the five facets mindfulness questionnaire on week 1",
-        "Units":""
-    },
-    "ffmq_Describe_w1":{
-        "Description":"score of the describe subscale of the five facets mindfulness questionnaire on week 1",
-        "Units":""
-    },
-    "ffmq_Act_with_awareness_w1":{
-        "Description":"score of the act-with-awareness subscale of the five facets mindfulness questionnaire on week 1",
-        "Units":""
-    },
-    "ffmq_Nonjudge_w1":{
-        "Description":"score of the nonjudge subscale of the five facets mindfulness questionnaire on week 1",
-        "Units":""
-    },
-    "ffmq_Nonreact_w1":{
-        "Description":"score of the nonreact subscale of the five facets mindfulness questionnaire on week 1",
-        "Units":""
-    },
-    "ffmq_Total_w1":{
-        "Description":"total score of the five facets mindfulness questionnaire on week 1",
-        "Units":""
-    },
-    "ffmq_Observe_w6":{
-        "Description":"score of the observe subscale of the five facets mindfulness questionnaire on week 6",
-        "Units":""
-    },
-    "ffmq_Describe_w6":{
-        "Description":"score of the describe subscale of the five facets mindfulness questionnaire on week 6",
-        "Units":""
-    },
-    "ffmq_Act_with_awareness_w6":{
-        "Description":"score of the act-with-awareness subscale of the five facets mindfulness questionnaire on week 6",
-        "Units":""
-    },
-    "ffmq_Nonjudge_w6":{
-        "Description":"score of the nonjudge subscale of the five facets mindfulness questionnaire on week 6",
-        "Units":""
-    },
-    "ffmq_Nonreact_w6":{
-        "Description":"score of the nonreact subscale of the five facets mindfulness questionnaire on week 6",
-        "Units":""
-    },
-    "ffmq_Total_w6":{
-        "Description":"total score of the five facets mindfulness questionnaire on week 6",
-        "Units":""
-    },
-    "fatigue_w1":{
-        "Description":"total score of the chalder fatigue scale on week 1",
-        "Units":""
-    },
-    "fatigue_w6":{
-        "Description":"total score of the chalder fatigue scale on week 6",
-        "Units":""
-    },
-    "srsi3_mindfulness_d1_w1":{
-        "Description":"total score of the smith relaxation states inventory 3 mindfulness dimension 1 on week 1",
-        "Units":""
-    },
-    "srsi3_mindfulness_d2_w1":{
-        "Description":"total score of the smith relaxation states inventory 3 mindfulness dimension 2 on week 1",
-        "Units":""
-    },
-    "srsi3_mindfulness_d3_w1":{
-        "Description":"total score of the smith relaxation states inventory 3 mindfulness dimension 3 on week 1",
-        "Units":""
-    },
-    "srsi3_mindfulness_d4_w1":{
-        "Description":"total score of the smith relaxation states inventory 3 mindfulness dimension 4 on week 1",
-        "Units":""
-    },
-    "srsi3_somatic_stress_w1":{
-        "Description":"total score of the smith relaxation states inventory 3 somatic stress dimension on week 1",
-        "Units":""
-    },
-    "srsi3_emotional_stress_w1":{
-        "Description":"total score of the smith relaxation states inventory 3 emotional stress dimension on week 1",
-        "Units":""
-    },
-    "srsi3_cognitive_stress_w1":{
-        "Description":"total score of the smith relaxation states inventory 3 cognitive stress dimension on week 1",
-        "Units":""
-    },
-    "srsi3_mindfulness_d1_w6":{
-        "Description":"total score of the smith relaxation states inventory 3 mindfulness dimension 1 on week 6",
-        "Units":""
-    },
-    "srsi3_mindfulness_d2_w6":{
-        "Description":"total score of the smith relaxation states inventory 3 mindfulness dimension 2 on week 6",
-        "Units":""
-    },
-    "srsi3_mindfulness_d3_w6":{
-        "Description":"total score of the smith relaxation states inventory 3 mindfulness dimension 3 on week 6",
-        "Units":""
-    },
-    "srsi3_mindfulness_d4_w6":{
-        "Description":"total score of the smith relaxation states inventory 3 mindfulness dimension 4 on week 6",
-        "Units":""
-    },
-    "srsi3_somatic_stress_w6":{
-        "Description":"total score of the smith relaxation states inventory 3 somatic stress dimension on week 6",
-        "Units":""
-    },
-    "srsi3_emotional_stress_w6":{
-        "Description":"total score of the smith relaxation states inventory 3 emotional stress dimension on week 6",
-        "Units":""
-    },
-    "srsi3_cognitive_stress_w6":{
-        "Description":"total score of the smith relaxation states inventory 3 cognitive stress dimension on week 6",
-        "Units":""
-    },
-    "srsi3d_mindfulness_d1_w1":{
-        "Description":"total score of disposition version of the smith relaxation states inventory 3 mindfulness dimension 1 on week 1",
-        "Units":""
-    },
-    "srsi3d_mindfulness_d2_w1":{
-        "Description":"total score of disposition version of the smith relaxation states inventory 3 mindfulness dimension 2 on week 1",
-        "Units":""
-    },
-    "srsi3d_mindfulness_d3_w1":{
-        "Description":"total score of disposition version of the smith relaxation states inventory 3 mindfulness dimension 3 on week 1",
-        "Units":""
-    },
-    "srsi3d_mindfulness_d4_w1":{
-        "Description":"total score of disposition version of the smith relaxation states inventory 3 mindfulness dimension 4 on week 1",
-        "Units":""
-    },
-    "srsi3d_somatic_stress_w1":{
-        "Description":"total score of disposition version of the smith relaxation states inventory 3 somatic stress dimension on week 1",
-        "Units":""
-    },
-    "srsi3d_emotional_stress_w1":{
-        "Description":"total score of disposition version of the smith relaxation states inventory 3 emotional stress dimension on week 1",
-        "Units":""
-    },
-    "srsi3d_cognitive_stress_w1":{
-        "Description":"total score of disposition version of the smith relaxation states inventory 3 cognitive stress dimension on week 1",
-        "Units":""
-    },
-    "srsi3d_mindfulness_d1_w6":{
-        "Description":"total score of disposition version of the smith relaxation states inventory 3 mindfulness dimension 1 on week 6",
-        "Units":""
-    },
-    "srsi3d_mindfulness_d2_w6":{
-        "Description":"total score of disposition version of the smith relaxation states inventory 3 mindfulness dimension 2 on week 6",
-        "Units":""
-    },
-    "srsi3d_mindfulness_d3_w6":{
-        "Description":"total score of disposition version of the smith relaxation states inventory 3 mindfulness dimension 3 on week 6",
-        "Units":""
-    },
-    "srsi3d_mindfulness_d4_w6":{
-        "Description":"total score of disposition version of the smith relaxation states inventory 3 mindfulness dimension 4 on week 6",
-        "Units":""
-    },
-    "srsi3d_somatic_stress_w6":{
-        "Description":"total score of disposition version of the smith relaxation states inventory 3 somatic stress dimension on week 6",
-        "Units":""
-    },
-    "srsi3d_emotional_stress_w6":{
-        "Description":"total score of disposition version of the smith relaxation states inventory 3 emotional stress dimension on week 6",
-        "Units":""
-    },
-    "srsi3d_cognitive_stress_w6":{
-        "Description":"total score of disposition version of the smith relaxation states inventory 3 cognitive stress dimension on week 6",
-        "Units":""
-    },
-    "erq-FR_reappraisal_w1":{
-        "Description":"total score of reappraisal of the emotion regulation questionnaire on week 1",
-        "Units":""
-    },
-    "erq-FR_suppression_w1":{
-        "Description":"total score of suppression of the emotion regulation questionnaire on week 1",
-        "Units":""
-    },
-    "erq-FR_reappraisal_w6":{
-        "Description":"total score of reappraisal of the emotion regulation questionnaire on week 6",
-        "Units":""
-    },
-    "erq-FR_suppression_w6":{
-        "Description":"total score of suppression of the emotion regulation questionnaire on week 6",
-        "Units":""
-    },
-    "erq-SE_reappraisal_w1":{
-        "Description":"total score of reappraisal of the emotion regulation self-efficacy questionnaire on week 1",
-        "Units":""
-    },
-    "erq-SE_suppression_w1":{
-        "Description":"total score of suppression of the emotion regulation self-efficacy questionnaire on week 1",
-        "Units":""
-    },
-    "erq-SE_reappraisal_w6":{
-        "Description":"total score of reappraisal of the emotion regulation self-efficacy questionnaire on week 6",
-        "Units":""
-    },
-    "erq-SE_suppression_w6":{
-        "Description":"total score of suppression of the emotion regulation self-efficacy questionnaire on week 6",
-        "Units":""
-    },
-    "perceived_stress_w1":{
-        "Description":"mean score of perceived stress scale in NIH toolbox on week 1",
-        "Units":""
-    },
-    "perceived_stress_w6":{
-        "Description":"mean score of perceived stress scale in NIH toolbox on week 1",
-        "Units":""
-    },
-    "Altruism_scale":{
-        "Description":"total score of altruistic behaviour scale (Rushton et al.,1981)",
-        "Units":""
+  "participant_id":{
+    "Description":"participant_id",
+    "Units":""
+  },
+  "age_group":{
+    "Description":"group by age",
+    "Levels":{
+      "YA":"younger adults",
+      "OA":"older adults"
     }
+  },
+  "condition":{
+    "Description":"experimental condition",
+    "Levels":{
+      "increase":"HRV oscillation increase condition",
+      "decrease":"HRV oscillation decrease conditions"
+    }
+  },
+  "cesd_Total_w1":{
+    "Description":"total score of center for epidemiological studies depression on week 1",
+    "Units":""
+  },
+  "cesd_Total_w2":{
+    "Description":"total score of center for epidemiological studies depression on week 2",
+    "Units":""
+  },
+  "cesd_Total_w6":{
+    "Description":"total score of center for epidemiological studies depression on week 6",
+    "Units":""
+  },
+  "cesd_Total_w7":{
+    "Description":"total score of center for epidemiological studies depression on week 7",
+    "Units":""
+  },
+  "tai_Total_w1":{
+    "Description":"total score of trait anxiety inventory on week 1",
+    "Units":""
+  },
+  "tai_Total_w2":{
+    "Description":"total score of trait anxiety inventory on week 2",
+    "Units":""
+  },
+  "tai_Total_w6":{
+    "Description":"total score of trait anxiety inventory on week 6",
+    "Units":""
+  },
+  "tai_Total_w7":{
+    "Description":"total score of trait anxiety inventory on week 7",
+    "Units":""
+  },
+  "sai_Total_w1":{
+    "Description":"total score of state anxiety inventory on week 1",
+    "Units":""
+  },
+  "sai_Total_w2":{
+    "Description":"total score of state anxiety inventory on week 2",
+    "Units":""
+  },
+  "sai_Total_w3":{
+    "Description":"total score of state anxiety inventory on week 3",
+    "Units":""
+  },
+  "sai_Total_w4":{
+    "Description":"total score of state anxiety inventory on week 4",
+    "Units":""
+  },
+  "sai_Total_w5":{
+    "Description":"total score of state anxiety inventory on week 5",
+    "Units":""
+  },
+  "sai_Total_w6":{
+    "Description":"total score of state anxiety inventory on week 6",
+    "Units":""
+  },
+  "sai_Total_w7":{
+    "Description":"total score of state anxiety inventory on week 7",
+    "Units":""
+  },
+  "poms_tension_w1":{
+    "Description":"score of the tension-anxiety subscale of the profile of mood states on week 1",
+    "Units":""
+  },
+  "poms_anger_w1":{
+    "Description":"score of the anger subscale of the profile of mood states on week 1",
+    "Units":""
+  },
+  "poms_fatigue_w1":{
+    "Description":"score of the fatigue subscale of the profile of mood states on week 1",
+    "Units":""
+  },
+  "poms_depression_w1":{
+    "Description":"score of the depression subscale of the profile of mood states on week 1",
+    "Units":""
+  },
+  "poms_esteem_related_afftect_w1":{
+    "Description":"score of the esteem-related affect subscale of the profile of mood states on week 1",
+    "Units":""
+  },
+  "poms_vigour_w1":{
+    "Description":"score of the vigour subscale of the profile of mood states on week 1",
+    "Units":""
+  },
+  "poms_confusion_w1":{
+    "Description":"score of the confusion subscale of the profile of mood states on week 1",
+    "Units":""
+  },
+  "poms_Total_w1":{
+    "Description":"total score of the profile of mood states on week 1",
+    "Units":""
+  },
+  "poms_tension_w2":{
+    "Description":"score of the tension-anxiety subscale of the profile of mood states on week 2",
+    "Units":""
+  },
+  "poms_anger_w2":{
+    "Description":"score of the anger subscale of the profile of mood states on week 2",
+    "Units":""
+  },
+  "poms_fatigue_w2":{
+    "Description":"score of the fatigue subscale of the profile of mood states on week 2",
+    "Units":""
+  },
+  "poms_depression_w2":{
+    "Description":"score of the depression subscale of the profile of mood states on week 2",
+    "Units":""
+  },
+  "poms_esteem_related_afftect_w2":{
+    "Description":"score of the esteem-related affect subscale of the profile of mood states on week 2",
+    "Units":""
+  },
+  "poms_vigour_w2":{
+    "Description":"score of the vigour subscale of the profile of mood states on week 2",
+    "Units":""
+  },
+  "poms_confusion_w2":{
+    "Description":"score of the confusion subscale of the profile of mood states on week 2",
+    "Units":""
+  },
+  "poms_Total_w2":{
+    "Description":"total score of the profile of mood states on week 2",
+    "Units":""
+  },
+  "poms_tension_w3":{
+    "Description":"score of the tension-anxiety subscale of the profile of mood states on week 3",
+    "Units":""
+  },
+  "poms_anger_w3":{
+    "Description":"score of the anger subscale of the profile of mood states on week 3",
+    "Units":""
+  },
+  "poms_fatigue_w3":{
+    "Description":"score of the fatigue subscale of the profile of mood states on week 3",
+    "Units":""
+  },
+  "poms_depression_w3":{
+    "Description":"score of the depression subscale of the profile of mood states on week 3",
+    "Units":""
+  },
+  "poms_esteem_related_afftect_w3":{
+    "Description":"score of the esteem-related affect subscale of the profile of mood states on week 3",
+    "Units":""
+  },
+  "poms_vigour_w3":{
+    "Description":"score of the vigour subscale of the profile of mood states on week 3",
+    "Units":""
+  },
+  "poms_confusion_w3":{
+    "Description":"score of the confusion subscale of the profile of mood states on week 3",
+    "Units":""
+  },
+  "poms_Total_w3":{
+    "Description":"total score of the profile of mood states on week 3",
+    "Units":""
+  },
+  "poms_tension_w4":{
+    "Description":"score of the tension-anxiety subscale of the profile of mood states on week 4",
+    "Units":""
+  },
+  "poms_anger_w4":{
+    "Description":"score of the anger subscale of the profile of mood states on week 4",
+    "Units":""
+  },
+  "poms_fatigue_w4":{
+    "Description":"score of the fatigue subscale of the profile of mood states on week 4",
+    "Units":""
+  },
+  "poms_depression_w4":{
+    "Description":"score of the depression subscale of the profile of mood states on week 4",
+    "Units":""
+  },
+  "poms_esteem_related_afftect_w4":{
+    "Description":"score of the esteem-related affect subscale of the profile of mood states on week 4",
+    "Units":""
+  },
+  "poms_vigour_w4":{
+    "Description":"score of the vigour subscale of the profile of mood states on week 4",
+    "Units":""
+  },
+  "poms_confusion_w4":{
+    "Description":"score of the confusion subscale of the profile of mood states on week 4",
+    "Units":""
+  },
+  "poms_Total_w4":{
+    "Description":"total score of the profile of mood states on week 4",
+    "Units":""
+  },
+  "poms_tension_w5":{
+    "Description":"score of the tension-anxiety subscale of the profile of mood states on week 5",
+    "Units":""
+  },
+  "poms_anger_w5":{
+    "Description":"score of the anger subscale of the profile of mood states on week 5",
+    "Units":""
+  },
+  "poms_fatigue_w5":{
+    "Description":"score of the fatigue subscale of the profile of mood states on week 5",
+    "Units":""
+  },
+  "poms_depression_w5":{
+    "Description":"score of the depression subscale of the profile of mood states on week 5",
+    "Units":""
+  },
+  "poms_esteem_related_afftect_w5":{
+    "Description":"score of the esteem-related affect subscale of the profile of mood states on week 5",
+    "Units":""
+  },
+  "poms_vigour_w5":{
+    "Description":"score of the vigour subscale of the profile of mood states on week 5",
+    "Units":""
+  },
+  "poms_confusion_w5":{
+    "Description":"score of the confusion subscale of the profile of mood states on week 5",
+    "Units":""
+  },
+  "poms_Total_w5":{
+    "Description":"total score of the profile of mood states on week 5",
+    "Units":""
+  },
+  "poms_tension_w6":{
+    "Description":"score of the tension-anxiety subscale of the profile of mood states on week 6",
+    "Units":""
+  },
+  "poms_anger_w6":{
+    "Description":"score of the anger subscale of the profile of mood states on week 6",
+    "Units":""
+  },
+  "poms_fatigue_w6":{
+    "Description":"score of the fatigue subscale of the profile of mood states on week 6",
+    "Units":""
+  },
+  "poms_depression_w6":{
+    "Description":"score of the depression subscale of the profile of mood states on week 6",
+    "Units":""
+  },
+  "poms_esteem_related_afftect_w6":{
+    "Description":"score of the esteem-related affect subscale of the profile of mood states on week 6",
+    "Units":""
+  },
+  "poms_vigour_w6":{
+    "Description":"score of the vigour subscale of the profile of mood states on week 6",
+    "Units":""
+  },
+  "poms_confusion_w6":{
+    "Description":"score of the confusion subscale of the profile of mood states on week 6",
+    "Units":""
+  },
+  "poms_Total_w6":{
+    "Description":"total score of the profile of mood states on week 6",
+    "Units":""
+  },
+  "poms_tension_w7":{
+    "Description":"score of the tension-anxiety subscale of the profile of mood states on week 7",
+    "Units":""
+  },
+  "poms_anger_w7":{
+    "Description":"score of the anger subscale of the profile of mood states on week 7",
+    "Units":""
+  },
+  "poms_fatigue_w7":{
+    "Description":"score of the fatigue subscale of the profile of mood states on week 7",
+    "Units":""
+  },
+  "poms_depression_w7":{
+    "Description":"score of the depression subscale of the profile of mood states on week 7",
+    "Units":""
+  },
+  "poms_esteem_related_afftect_w7":{
+    "Description":"score of the esteem-related affect subscale of the profile of mood states on week 7",
+    "Units":""
+  },
+  "poms_vigour_w7":{
+    "Description":"score of the vigour subscale of the profile of mood states on week 7",
+    "Units":""
+  },
+  "poms_confusion_w7":{
+    "Description":"score of the confusion subscale of the profile of mood states on week 7",
+    "Units":""
+  },
+  "poms_Total_w7":{
+    "Description":"total score of the profile of mood states on week 7",
+    "Units":""
+  },
+  "ffmq_Observe_w1":{
+    "Description":"score of the observe subscale of the five facets mindfulness questionnaire on week 1",
+    "Units":""
+  },
+  "ffmq_Describe_w1":{
+    "Description":"score of the describe subscale of the five facets mindfulness questionnaire on week 1",
+    "Units":""
+  },
+  "ffmq_Act_with_awareness_w1":{
+    "Description":"score of the act-with-awareness subscale of the five facets mindfulness questionnaire on week 1",
+    "Units":""
+  },
+  "ffmq_Nonjudge_w1":{
+    "Description":"score of the nonjudge subscale of the five facets mindfulness questionnaire on week 1",
+    "Units":""
+  },
+  "ffmq_Nonreact_w1":{
+    "Description":"score of the nonreact subscale of the five facets mindfulness questionnaire on week 1",
+    "Units":""
+  },
+  "ffmq_Total_w1":{
+    "Description":"total score of the five facets mindfulness questionnaire on week 1",
+    "Units":""
+  },
+  "ffmq_Observe_w6":{
+    "Description":"score of the observe subscale of the five facets mindfulness questionnaire on week 6",
+    "Units":""
+  },
+  "ffmq_Describe_w6":{
+    "Description":"score of the describe subscale of the five facets mindfulness questionnaire on week 6",
+    "Units":""
+  },
+  "ffmq_Act_with_awareness_w6":{
+    "Description":"score of the act-with-awareness subscale of the five facets mindfulness questionnaire on week 6",
+    "Units":""
+  },
+  "ffmq_Nonjudge_w6":{
+    "Description":"score of the nonjudge subscale of the five facets mindfulness questionnaire on week 6",
+    "Units":""
+  },
+  "ffmq_Nonreact_w6":{
+    "Description":"score of the nonreact subscale of the five facets mindfulness questionnaire on week 6",
+    "Units":""
+  },
+  "ffmq_Total_w6":{
+    "Description":"total score of the five facets mindfulness questionnaire on week 6",
+    "Units":""
+  },
+  "fatigue_w1":{
+    "Description":"total score of the chalder fatigue scale on week 1",
+    "Units":""
+  },
+  "fatigue_w6":{
+    "Description":"total score of the chalder fatigue scale on week 6",
+    "Units":""
+  },
+  "srsi3_mindfulness_d1_w1":{
+    "Description":"total score of the smith relaxation states inventory 3 mindfulness dimension 1 on week 1",
+    "Units":""
+  },
+  "srsi3_mindfulness_d2_w1":{
+    "Description":"total score of the smith relaxation states inventory 3 mindfulness dimension 2 on week 1",
+    "Units":""
+  },
+  "srsi3_mindfulness_d3_w1":{
+    "Description":"total score of the smith relaxation states inventory 3 mindfulness dimension 3 on week 1",
+    "Units":""
+  },
+  "srsi3_mindfulness_d4_w1":{
+    "Description":"total score of the smith relaxation states inventory 3 mindfulness dimension 4 on week 1",
+    "Units":""
+  },
+  "srsi3_somatic_stress_w1":{
+    "Description":"total score of the smith relaxation states inventory 3 somatic stress dimension on week 1",
+    "Units":""
+  },
+  "srsi3_emotional_stress_w1":{
+    "Description":"total score of the smith relaxation states inventory 3 emotional stress dimension on week 1",
+    "Units":""
+  },
+  "srsi3_cognitive_stress_w1":{
+    "Description":"total score of the smith relaxation states inventory 3 cognitive stress dimension on week 1",
+    "Units":""
+  },
+  "srsi3_mindfulness_d1_w6":{
+    "Description":"total score of the smith relaxation states inventory 3 mindfulness dimension 1 on week 6",
+    "Units":""
+  },
+  "srsi3_mindfulness_d2_w6":{
+    "Description":"total score of the smith relaxation states inventory 3 mindfulness dimension 2 on week 6",
+    "Units":""
+  },
+  "srsi3_mindfulness_d3_w6":{
+    "Description":"total score of the smith relaxation states inventory 3 mindfulness dimension 3 on week 6",
+    "Units":""
+  },
+  "srsi3_mindfulness_d4_w6":{
+    "Description":"total score of the smith relaxation states inventory 3 mindfulness dimension 4 on week 6",
+    "Units":""
+  },
+  "srsi3_somatic_stress_w6":{
+    "Description":"total score of the smith relaxation states inventory 3 somatic stress dimension on week 6",
+    "Units":""
+  },
+  "srsi3_emotional_stress_w6":{
+    "Description":"total score of the smith relaxation states inventory 3 emotional stress dimension on week 6",
+    "Units":""
+  },
+  "srsi3_cognitive_stress_w6":{
+    "Description":"total score of the smith relaxation states inventory 3 cognitive stress dimension on week 6",
+    "Units":""
+  },
+  "srsi3d_mindfulness_d1_w1":{
+    "Description":"total score of disposition version of the smith relaxation states inventory 3 mindfulness dimension 1 on week 1",
+    "Units":""
+  },
+  "srsi3d_mindfulness_d2_w1":{
+    "Description":"total score of disposition version of the smith relaxation states inventory 3 mindfulness dimension 2 on week 1",
+    "Units":""
+  },
+  "srsi3d_mindfulness_d3_w1":{
+    "Description":"total score of disposition version of the smith relaxation states inventory 3 mindfulness dimension 3 on week 1",
+    "Units":""
+  },
+  "srsi3d_mindfulness_d4_w1":{
+    "Description":"total score of disposition version of the smith relaxation states inventory 3 mindfulness dimension 4 on week 1",
+    "Units":""
+  },
+  "srsi3d_somatic_stress_w1":{
+    "Description":"total score of disposition version of the smith relaxation states inventory 3 somatic stress dimension on week 1",
+    "Units":""
+  },
+  "srsi3d_emotional_stress_w1":{
+    "Description":"total score of disposition version of the smith relaxation states inventory 3 emotional stress dimension on week 1",
+    "Units":""
+  },
+  "srsi3d_cognitive_stress_w1":{
+    "Description":"total score of disposition version of the smith relaxation states inventory 3 cognitive stress dimension on week 1",
+    "Units":""
+  },
+  "srsi3d_mindfulness_d1_w6":{
+    "Description":"total score of disposition version of the smith relaxation states inventory 3 mindfulness dimension 1 on week 6",
+    "Units":""
+  },
+  "srsi3d_mindfulness_d2_w6":{
+    "Description":"total score of disposition version of the smith relaxation states inventory 3 mindfulness dimension 2 on week 6",
+    "Units":""
+  },
+  "srsi3d_mindfulness_d3_w6":{
+    "Description":"total score of disposition version of the smith relaxation states inventory 3 mindfulness dimension 3 on week 6",
+    "Units":""
+  },
+  "srsi3d_mindfulness_d4_w6":{
+    "Description":"total score of disposition version of the smith relaxation states inventory 3 mindfulness dimension 4 on week 6",
+    "Units":""
+  },
+  "srsi3d_somatic_stress_w6":{
+    "Description":"total score of disposition version of the smith relaxation states inventory 3 somatic stress dimension on week 6",
+    "Units":""
+  },
+  "srsi3d_emotional_stress_w6":{
+    "Description":"total score of disposition version of the smith relaxation states inventory 3 emotional stress dimension on week 6",
+    "Units":""
+  },
+  "srsi3d_cognitive_stress_w6":{
+    "Description":"total score of disposition version of the smith relaxation states inventory 3 cognitive stress dimension on week 6",
+    "Units":""
+  },
+  "erq-FR_reappraisal_w1":{
+    "Description":"total score of reappraisal of the emotion regulation questionnaire on week 1",
+    "Units":""
+  },
+  "erq-FR_suppression_w1":{
+    "Description":"total score of suppression of the emotion regulation questionnaire on week 1",
+    "Units":""
+  },
+  "erq-FR_reappraisal_w6":{
+    "Description":"total score of reappraisal of the emotion regulation questionnaire on week 6",
+    "Units":""
+  },
+  "erq-FR_suppression_w6":{
+    "Description":"total score of suppression of the emotion regulation questionnaire on week 6",
+    "Units":""
+  },
+  "erq-SE_reappraisal_w1":{
+    "Description":"total score of reappraisal of the emotion regulation self-efficacy questionnaire on week 1",
+    "Units":""
+  },
+  "erq-SE_suppression_w1":{
+    "Description":"total score of suppression of the emotion regulation self-efficacy questionnaire on week 1",
+    "Units":""
+  },
+  "erq-SE_reappraisal_w6":{
+    "Description":"total score of reappraisal of the emotion regulation self-efficacy questionnaire on week 6",
+    "Units":""
+  },
+  "erq-SE_suppression_w6":{
+    "Description":"total score of suppression of the emotion regulation self-efficacy questionnaire on week 6",
+    "Units":""
+  },
+  "perceived_stress_w1":{
+    "Description":"mean score of perceived stress scale in NIH toolbox on week 1",
+    "Units":""
+  },
+  "perceived_stress_w6":{
+    "Description":"mean score of perceived stress scale in NIH toolbox on week 1",
+    "Units":""
+  },
+  "Altruism_scale":{
+    "Description":"total score of altruistic behaviour scale (Rushton et al.,1981)",
+    "Units":""
+  },
+  "postQ1":{
+    "Description":"post questionnaire 1: How difficult was daily biofeedback assignments?",
+    "Units":"",
+    "Levels":{
+      "1":"Not at all",
+      "4":"A moderate amount",
+      "7":"A great deal"
+    }
+  },
+  "postQ2":{
+    "Description":"post questionnaire 2: How much effort did you put into the daily biofeedback assignments?",
+    "Units":"",
+    "Levels":{
+      "1":"Not at all",
+      "4":"A moderate amount",
+      "7":"A great deal"
+    }
+  },
+  "postQ3":{
+    "Description":"post questionnaire 3: Overall, how pleasant was your daily training?",
+    "Units":"",
+    "Levels":{
+      "1":"Very unpleasant",
+      "4":"Neutral",
+      "7":"Very pleasant"
+    }
+  },
+  "postQ4":{
+    "Description":"post questionnaire 4: How much did you expect your daily heart rate biofeedback practice would influence your emotional well-being?",
+    "Units":"",
+    "Levels":{
+      "1":"Not at all",
+      "4":"A moderate amount",
+      "7":"A great deal"
+    }
+  },
+  "postQ5":{
+    "Description":"post questionnaire 5: During the study, how much did you get the impression that the researchers believed that your daily practice would influence your well-being?",
+    "Units":"",
+    "Levels":{
+      "1":"Not at all",
+      "4":"A moderate amount",
+      "7":"A great deal"
+    }
+  },
+  "postQ6":{
+    "Description":"post questionnaire 6: Given your experience in this study, how likely will you continue practicing the techniques you learned in the near future?",
+    "Units":"",
+    "Levels":{
+      "1":"Very unlikely",
+      "4":"Neither likely nor unlikely",
+      "7":"Very likely"
+    }
+  }
 }
