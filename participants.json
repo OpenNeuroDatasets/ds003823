@@ -373,5 +373,17 @@
       "1":"recommned to exclude",
       "0":"good to use"
     }
+  },
+  "note_ses-pre_MRIdata":{
+    "Description":"participant id",
+    "Units":""
+  },
+  "note_ses-post_MRIdata":{
+    "Description":"participant id",
+    "Units":""
+  },
+  "note-ses-home-practice":{
+    "Description":"participant id",
+    "Units":""
   }
 }
