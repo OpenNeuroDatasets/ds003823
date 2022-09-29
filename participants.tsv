@@ -1,9 +1,9 @@
 participant_id	age_group	gender	handedness	condition	MRI_pre	MRI_post	Questionnaire	sleep	ses-pre_task-NIHcognition	ses-post_task-NIHcognition	ses-pre_task-SART	ses-post_task-SART	task-recall	task-recognition	ses-calibration_task-labHRV	ses-pre_task-labHRV	ses-post_task-labHRV	ses-home_task-practice	ses-pre_task-stress	ses-post_task-stress	ses-pre_anat-wholebrain	ses-post_anat-wholebrain	ses-pre_anat-lc	ses-post_anat-lc	ses-pre_task-rest	ses-post_task-rest	ses-pre_task-emotionRegulation	ses-post_task-emotionRegulation	ses-pre_task-rest_ASL	ses-post_task-rest_ASL	ses-post_task-trainingMimicking	ses-post_task-trainingMimicking_ASL	ses-post_task-ultimatumGame_behavior	ses-post_task-ultimatumGame	ses-pre_task-MRS	ses-post_task-MRS_1st	ses-post_task-MRS_2nd	QC_ses-home_task-practice_1excludeRecommend_0goodTouse	QC_ses-pre_task-stress_1excludeRecommend_0goodTouse	QC_ses-post_task-stress_1excludeRecommend_0goodTouse	QC_ses-pre_anat-wholebrain_1excludeRecommend_0goodTouse	QC_ses-post_anat-wholebrain_1excludeRecommend_0goodTouse	QC_ses-pre_anat-lc_1excludeRecommend_0goodTouse	QC_ses-post_anat-lc_1excludeRecommend_0goodTouse	QC_ses-pre_task-rest_1excludeRecommend_0goodTouse	QC_ses-post_task-rest_1excludeRecommend_0goodTouse	QC_ses-pre_task-emotionRegulation_1excludeRecommend_0goodTouse	QC_ses-post_task-emotionRegulation_1excludeRecommend_0goodTouse	QC_ses-pre_task-rest_ASL_1excludeRecommend_0goodTouse	QC_ses-post_task-rest_ASL_1excludeRecommend_0goodTouse	QC_ses-post_task-trainingMimicking_1excludeRecommend_0goodTouse	QC_ses-post_task-trainingMimicking_ASL_1excludeRecommend_0goodTouse	note_ses-pre_MRIdata	note_ses-post_MRIdata	note-ses-home-practice
 sub-5001	YA	F	R	increase_HRV	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	n/a	1	1	n/a	n/a	TM-shorter scan time	n/a
-sub-5002	YA	M	R	increase_HRV	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	n/a	1	0	1	n/a	n/a	n/a
-sub-5003	YA	M	R	increase_HRV	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	n/a	1	0	1	n/a	n/a	n/a
+sub-5002	YA	M	R	increase_HRV	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	n/a	1	0	1	n/a	n/a	n/a
+sub-5003	YA	M	R	increase_HRV	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	n/a	1	0	1	n/a	n/a	n/a
 sub-5004	YA	M	R	increase_HRV	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	n/a	1	0	1	n/a	n/a	n/a
-sub-5005	YA	M	R	increase_HRV	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	n/a	1	0	1	n/a	n/a	n/a
+sub-5005	YA	M	R	increase_HRV	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	n/a	1	0	1	n/a	n/a	n/a
 sub-5006	YA	M	R	increase_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	n/a	1	0	1	n/a	n/a	n/a
 sub-5007	YA	M	R	increase_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	n/a	n/a	n/a
 sub-5008	YA	M	L	increase_HRV	1	0	1	1	1	0	1	0	0	0	1	1	0	1	1	0	1	0	1	0	1	0	1	0	0	0	0	0	0	0	1	0	0	1	0	n/a	0	n/a	0	n/a	0	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	early termination
@@ -60,7 +60,7 @@ sub-5058	YA	M	R	increase_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
 sub-5059	YA	M	R	increase_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	n/a	n/a	n/a
 sub-5060	YA	F	R	increase_HRV	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	n/a	n/a	n/a
 sub-5061	YA	F	R	increase_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	n/a	n/a	n/a
-sub-5062	YA	F	R	increase_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	n/a	n/a	n/a
+sub-5062	YA	F	R	increase_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	n/a	n/a	n/a
 sub-5063	YA	F	R	increase_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	n/a	n/a	n/a
 sub-6001	YA	F	R	decrease_HRV	0	0	1	0	1	1	1	1	1	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 sub-6002	YA	M	R	decrease_HRV	1	1	1	0	1	1	1	1	1	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	n/a	1	0	1	n/a	n/a	n/a
@@ -98,7 +98,7 @@ sub-6033	YA	F	R	decrease_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
 sub-6034	YA	F	R	decrease_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	n/a	n/a	n/a
 sub-6035	YA	F	R	decrease_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	n/a	n/a	n/a	n/a	n/a
 sub-6036	YA	F	R	decrease_HRV	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-6037	YA	F	R	decrease_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	n/a	n/a	n/a
+sub-6037	YA	F	R	decrease_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	n/a	n/a	n/a
 sub-6038	YA	M	R	decrease_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	n/a	n/a	n/a
 sub-6039	YA	M	R	decrease_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	n/a	n/a	n/a
 sub-6040	YA	F	R	decrease_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	n/a	n/a	n/a
@@ -129,7 +129,7 @@ sub-7006	OA	M	R	increase_HRV	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
 sub-7007	OA	F	R	increase_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	ER- shorter scan time due to technical error	ER-preprocessingFail	n/a
 sub-7008	OA	M	R	increase_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	n/a	n/a	n/a
 sub-7009	OA	F	R	increase_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	N/A	N/A	0	N/A	n/a	n/a	n/a
-sub-7010	OA	F	R	increase_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	n/a	n/a	n/a
+sub-7010	OA	F	R	increase_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	n/a	n/a	n/a
 sub-7011	OA	F	R	increase_HRV	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	n/a	n/a	n/a
 sub-7012	OA	F	R	increase_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	N/A	N/A	0	N/A	n/a	n/a	n/a
 sub-7013	OA	F	L	increase_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	n/a	n/a	n/a
@@ -148,7 +148,7 @@ sub-7025	OA	M	R	increase_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
 sub-7026	OA	F	R	increase_HRV	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	n/a	n/a	n/a
 sub-7027	OA	F	R	increase_HRV	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	n/a	n/a	n/a
 sub-7028	OA	F	R	increase_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	n/a	n/a	n/a
-sub-7029	OA	F	R	increase_HRV	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	n/a	n/a	n/a
+sub-7029	OA	F	R	increase_HRV	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	n/a	n/a	n/a
 sub-7030	OA	F	R	increase_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	N/A	N/A	0	N/A	n/a	n/a	n/a
 sub-7031	OA	M	L	increase_HRV	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	n/a	n/a	n/a
 sub-7032	OA	F	R	increase_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	n/a	N/A	n/a	n/a	n/a	n/a	n/a	n/a
@@ -173,7 +173,7 @@ sub-8013	OA	F	R	decrease_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
 sub-8014	OA	F	R	decrease_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	n/a	n/a	n/a
 sub-8015	OA	F	R	decrease_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	n/a	n/a	n/a
 sub-8016	OA	M	R	decrease_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	n/a	n/a	n/a
-sub-8017	OA	F	R	decrease_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	n/a	0	0	0	0	0	0	0	0	0	n/a	n/a	n/a
+sub-8017	OA	F	R	decrease_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	0	0	0	0	0	0	n/a	0	0	0	0	0	0	0	0	0	n/a	n/a	n/a
 sub-8018	OA	F	R	decrease_HRV	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	n/a	n/a	n/a
 sub-8019	OA	M	R	decrease_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	n/a	n/a	n/a
 sub-8020	OA	F	R	decrease_HRV	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	n/a	n/a	n/a
