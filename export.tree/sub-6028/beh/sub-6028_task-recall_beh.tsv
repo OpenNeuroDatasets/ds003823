@@ -1,0 +1,10 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+6028	2	1	1	pizza_with_vegetables	B	Objects_078_h	Positive	1
+6028	2	1	2	boy_laying_on_his_side_in_a_hospital_bed	B	Faces_011_h	Negative	1
+6028	2	1	3	woman_with_head_scarf_looking_into_camera_with_blurred_background	B	Faces_197_v	Neutral	1
+6028	2	1	4	black_and_white_dog_catching_white_frisbee_in_midair	B	Animals_175_h	Positive	1
+6028	2	1	5	people_being_pulled_by_jet_ski_thing_on_water	B	People_189_h	Positive	1
+6028	2	1	6	ski_lift_and_mountain	B	People_096_h	Positive	1
+6028	2	1	7	fried_tan_colored_round_snack_things_with_circle_dot_design	B	Objects_069_h	Positive	1
+6028	2	1	8	buttons_in_a_old_looking_square_box	B	Objects_251_v	Neutral	1
+6028	2	1	9	blue_trash_bags_covered_with_snow	B	Landscapes_017_h	Negative	1

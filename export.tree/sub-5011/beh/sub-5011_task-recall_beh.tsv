@@ -1,0 +1,11 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+5011	1	1	1	Picture_of_a_white_window	B	NO	n/a	0
+5011	1	1	2	A_pizza_slice_loaded_with_vegetables	B	Objects_078_h	Positive	1
+5011	1	1	3	A_child_going_down_the_a_yellow_colored_water_slide	B	Faces_132_h	Positive	1
+5011	1	1	4	An_asian_tourist_couple_with_a_DSLR	B	Faces_306_v	Neutral	1
+5011	1	1	5	A_fenced_Farm	B	NO	n/a	0
+5011	1	1	6	Picture_of_bleeding_hind_legs_of_a_cow/horse	B	Animals_029_v	Negative	1
+5011	1	1	7	A_white_round_table_filled_with_food_items	B	Objects_037_h	Positive	1
+5011	1	1	8	a_picture_of_a_black_girl	B	Faces_197_v	Neutral	1
+5011	1	1	9	A_picture_of_an_old_man	B	People_159_h	Neutral	1
+5011	1	1	10	A_picture_of_ice_capped_blue_stones_in_the_woods	B	Landscapes_017_h	Negative	1
