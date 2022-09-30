@@ -1,0 +1,10 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+8007	2	2	1	woman_picture/middle_age	A	NO	n/a	0
+8007	2	2	2	dog/by_the_wall	A	Animals_209_h	Neutral	1
+8007	2	2	3	black_man/picture	A	Faces_187_v	Neutral	1
+8007	2	2	4	dirty_messy_room/_with_some_man	A	NO	n/a	0
+8007	2	2	5	a_bird/hanging	A	NO	n/a	0
+8007	2	2	6	a_mother_and_son/happy_picture	A	NO	n/a	0
+8007	2	2	7	dirty_garbage_pan_picture	A	NO	n/a	0
+8007	2	2	8	wood_in_the_creek	A	NO	n/a	0
+8007	2	2	9	monkey_hanging_on_the_tree	A	NO	n/a	0

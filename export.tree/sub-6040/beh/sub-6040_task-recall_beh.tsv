@@ -1,0 +1,9 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+6040	2	1	1	a_chocolate_cake_with_good_frosting	A	Objects_080_h	Positive	1
+6040	2	1	2	a_middle_aged_woman_walking_on_road	A	Faces_220_h	Neutral	1
+6040	2	1	3	a_bruised_dog_looking_for_help_or_owner	A	Animals_049_h	Negative	1
+6040	2	1	4	a_rash_close_to_the_mouth	A	People_197_h	Negative	1
+6040	2	1	5	a_dirty_washroom	A	Objects_110_v	Negative	1
+6040	2	1	6	skydiving_probably_a_vacation	A	NO	n/a	0
+6040	2	1	7	kids_jumping_into_the_pool	A	Faces_134_h	Positive	1
+6040	2	1	8	a_dark_complexed_man_dressed_in_a_tux_maybe_probably_an_award_ceremony	A	Faces_187_v	Neutral	1
