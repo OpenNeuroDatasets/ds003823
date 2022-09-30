@@ -1,0 +1,6 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+8026	2	2	1	An_older_woman_with_a_cup_that_appeared_to_ask_for_donations	B	Faces_303_h	Negative	1
+8026	2	2	2	A_little_boy_in_a_hospital_bed	B	Faces_011_h	Negative	1
+8026	2	2	3	An_older_man_on_a_park_bench	B	People_159_h	Neutral	1
+8026	2	2	4	An_old_house_in_the_middle_of_a_large_green_area	B	Landscapes_019_h	Neutral	1
+8026	2	2	5	A_trash_dumpster_that_looked_like_it_was_falling_apart	B	Objects_188_v	Negative	1
