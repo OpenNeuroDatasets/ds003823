@@ -1,5 +1,0 @@
-participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
-5032	1	1	1	metal_trash_in_a_field	B	People_012_h	Negative	1
-5032	1	1	2	dog_catching_frisbee	B	Animals_175_h	Positive	1
-5032	1	1	3	white_man_looking_angry_or_bored	B	Faces_167_v	Neutral	1
-5032	1	1	4	young_black_woman_wearing_head_scarf_looking_at_camera	B	Faces_197_v	Neutral	1
