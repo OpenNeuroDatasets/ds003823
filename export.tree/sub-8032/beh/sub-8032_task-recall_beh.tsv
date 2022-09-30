@@ -1,9 +1,0 @@
-participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
-8032	2	2	1	sick_baby_in_incubator	B	NO	n/a	0
-8032	2	2	2	homeless_person	B	NO	n/a	0
-8032	2	2	3	boats_in_a_bay	B	People_104_h	Neutral	1
-8032	2	2	4	dead_bird_in_dirty_water	B	NO	n/a	0
-8032	2	2	5	cake_with_white_icing	B	NO	n/a	0
-8032	2	2	6	dead_goat	B	NO	n/a	0
-8032	2	2	7	horse_with_blood_on_it's_legs	B	Animals_029_v	Negative	1
-8032	2	2	8	butterfly_or_moth	B	Animals_093_h	Neutral	1
