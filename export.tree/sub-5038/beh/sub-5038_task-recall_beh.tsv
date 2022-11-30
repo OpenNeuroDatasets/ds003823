@@ -1,0 +1,4 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+5038	1	1	1	child_riding_water_slide	B	Faces_132_h	Positive	1
+5038	1	1	2	old_man_on_bench	B	People_159_h	Neutral	1
+5038	1	1	3	overflowing_garbage_can	B	Objects_188_v	Negative	1
