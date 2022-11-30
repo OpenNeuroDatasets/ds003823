@@ -1,0 +1,31 @@
+{
+  "participant_id":{
+    "Description":"participant id",
+    "Units":""
+  },
+  "age_group":{
+    "Description":"group by age",
+    "Levels":{
+      "YA":"younger adults",
+      "OA":"older adults"
+    }
+  },
+  "condition":{
+    "Description":"experimental condition",
+    "Levels":{
+      "increase":"HRV oscillation increase condition",
+      "decrease":"HRV oscillation decrease conditions"
+    }
+  },
+  "gender":{
+    "Description":"gender",
+    "Levels":{
+      "female":"female",
+      "male":"male"
+    }
+  },
+  "age_category":{
+    "Description":"age category",
+    "Units":""
+  }
+}

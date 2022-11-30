@@ -1,0 +1,6 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+7029	1	2	1	Orange_mug_with_a_tag_on_it	B	Objects_237_h	Neutral	1
+7029	1	2	2	impoverished_children_hungry	B	NO	n/a	0
+7029	1	2	3	ski_slope_with_several_people_on_it	B	People_096_h	Positive	1
+7029	1	2	4	young_male_adult_at_a_desk_appears_to_be_deep_in_thought	B	NO	n/a	0
+7029	1	2	5	a_landfill_full_of_trash	B	NO	n/a	0

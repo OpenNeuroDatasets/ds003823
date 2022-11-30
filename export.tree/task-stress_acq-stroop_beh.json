@@ -1,0 +1,18 @@
+{
+    "trial":{
+        "Description":"trial number"
+    },
+    "response":{
+        "Description":"keypress made during response (n/a if no response made)"
+    },
+    "correct_response":{
+        "Description":"actual correct keypress"
+    },
+    "accuracy":{
+        "Description":"accuracy of response (1=correct, 0=incorrect or no response made)"
+    },
+    "reaction_time":{
+        "Description":"time until response was made (n/a if no response made)",
+        "Units":"milliseconds"
+    }
+}

@@ -1,0 +1,9 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+6029	2	1	1	butterfly_resting_=_butterfly_had_black_and_blue_spots	B	Animals_093_h	Neutral	1
+6029	2	1	2	man_waterskiing	B	People_189_h	Positive	1
+6029	2	1	3	man_scuba_diving_with_arm_outstretched	B	People_130_h	Positive	1
+6029	2	1	4	dilapidated_wooden_house	B	Landscapes_019_h	Neutral	1
+6029	2	1	5	barbed_wire_fence_shot_from_a_side_angle	B	People_082_h	Negative	1
+6029	2	1	6	rusted_machinery	B	Landscapes_006_h	Negative	1
+6029	2	1	7	African_woman_with_a_head_covering_looked_very_somber	B	Faces_197_v	Neutral	1
+6029	2	1	8	men_playing_large_drums	B	Faces_361_v	Positive	1
