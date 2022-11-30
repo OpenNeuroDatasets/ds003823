@@ -1,0 +1,16 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+5016	1	1	1	A_dog_tied_to_a_pole_next_to_a_wall_with_colored_rope	A	Animals_209_h	Neutral	1
+5016	1	1	2	Parasailing_guy	A	People_183_h	Positive	1
+5016	1	1	3	a_lady_with_red_colored_outfit_and_spectacles_walking	A	Faces_220_h	Neutral	1
+5016	1	1	4	a_car_climbing_up_the_road	A	Objects_291_h	Positive	1
+5016	1	1	5	golden_colored_fish_with_white_strips_and_white_teeth	A	Animals_088_h	Neutral	1
+5016	1	1	6	dirty_lake_with_lot_of_waste	A	Landscapes_004_h	Negative	1
+5016	1	1	7	a_plant_in_a_lake	A	Landscapes_111_h	Neutral	1
+5016	1	1	8	3_houses_in_a_village_can_be_seen_with_witty_muddy_road	A	Landscapes_010_h	Negative	1
+5016	1	1	9	an_apartment_where_the_cloths_were_hung_on_the_balcony	A	Landscapes_016_h	Neutral	1
+5016	1	1	10	A_guy_in_a_suit	A	Faces_187_v	Neutral	1
+5016	1	1	11	an_old_lady_in_her_tribal_attire	A	Faces_261_v	Positive	1
+5016	1	1	12	a_lady_with_weird_face_due_to_some_disease	A	Faces_151_v	Negative	1
+5016	1	1	13	an_insect_with_huge_eyes	A	Animals_106_h	Positive	1
+5016	1	1	14	a_guy_diving_into_the_swimming_pool	A	People_196_h	Positive	1
+5016	1	1	15	a_boy_and_a_girl_posing_to_a_camera_and_diving_into_the_pool	A	Faces_134_h	Positive	1

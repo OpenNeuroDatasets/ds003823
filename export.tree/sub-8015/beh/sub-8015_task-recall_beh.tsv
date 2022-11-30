@@ -1,0 +1,6 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+8015	2	2	1	dog_sitting_at_a_shelter_being_treated	A	Animals_049_h	Negative	1
+8015	2	2	2	two_kids_jumping_into_a_pool	A	Faces_134_h	Positive	1
+8015	2	2	3	damage_from_a_flood_or_disaster	A	NO	n/a	0
+8015	2	2	4	beautiful_African_american_woman	A	Faces_261_v	Positive	1
+8015	2	2	5	sad_or_melancholy_woman	A	NO	n/a	0
