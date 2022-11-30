@@ -1,6 +1,0 @@
-participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
-8021	2	2	1	A_child_in_a_hospital_bed	B	Faces_011_h	Negative	1
-8021	2	2	2	the_side_of_a_house_with_metal_fencing_and_empty_fields_on_the_other_side	B	People_082_h	Negative	1
-8021	2	2	3	a_pony;s_bloody_leg	B	Animals_029_v	Negative	1
-8021	2	2	4	a_homeless_woman_appearing_to_beg_for_money	B	Faces_303_h	Negative	1
-8021	2	2	5	rusty_discarded_metal_debris	B	Landscapes_006_h	Negative	1

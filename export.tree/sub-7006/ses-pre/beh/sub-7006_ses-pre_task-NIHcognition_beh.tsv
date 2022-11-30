@@ -1,7 +1,0 @@
-participant_id	group	session	instOrdr	instSctn	itmOrdr	inst	itemID	response	score	position	responseTime	type
-7006	1	pre	1	2	2	NIH_Toolbox_List_Sorting_Working_Memory_Test_Age_7+_v2.1	LS1LAP1	1	1	1	0	practice
-7006	1	pre	1	2	4	NIH_Toolbox_List_Sorting_Working_Memory_Test_Age_7+_v2.1	LS1LAP2	1	1	2	0	practice
-7006	1	pre	1	4	1	NIH_Toolbox_List_Sorting_Working_Memory_Test_Age_7+_v2.1	WMLS1L3T1	1	4	3	0	main
-7006	1	pre	1	4	5	NIH_Toolbox_List_Sorting_Working_Memory_Test_Age_7+_v2.1	WMLS1L4T2	1	2	4	0	main
-7006	1	pre	1	4	7	NIH_Toolbox_List_Sorting_Working_Memory_Test_Age_7+_v2.1	WMLS1L5T2	1	2	5	0	main
-7006	1	pre	1	4	9	NIH_Toolbox_List_Sorting_Working_Memory_Test_Age_7+_v2.1	WMLS1L6T3	2	0	6	0	main
