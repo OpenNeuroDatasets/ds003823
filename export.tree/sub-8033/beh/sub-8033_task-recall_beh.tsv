@@ -1,0 +1,15 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+8033	2	2	1	boy_and_girl_jumping_in_swimming_pool;_girl_had_big_joyful_smile_and_boy_had_determined_look_on_his_face	A	Faces_134_h	Positive	1
+8033	2	2	2	what_appeared_as_homeless_people_sleeping	A	People_119_h	Negative	1
+8033	2	2	3	resting_on_sidewalk	A	NO	n/a	0
+8033	2	2	4	view_of_train_tracks_with_somewhat_run_down_structure_on_each_side;_scene_was_dark	A	NO	n/a	0
+8033	2	2	5	dog_with_bandage_around_one_leg_and_what_looked_like_IV_going_into_that_leg	A	Animals_049_h	Negative	1
+8033	2	2	6	close-up_of_South_Asian_looking_woman_who_had_severe_blemishes_on_her_face	A	Faces_151_v	Negative	1
+8033	2	2	7	a_man_holding_the_leash_of_a_somewhat_menacing_dog	A	NO	n/a	0
+8033	2	2	8	unusual_modern_looking_apartment_building_with_pronounced_balconies	A	Landscapes_016_h	Neutral	1
+8033	2	2	9	truck_driving_up_sand_dune	A	Objects_291_h	Positive	1
+8033	2	2	10	scene_of_a_car_accident	A	NO	n/a	0
+8033	2	2	11	photo_of_a_middle_aged_white_American_looking_woman	A	NO	n/a	0
+8033	2	2	12	black_man_in_a_suit_in_an_audience_intently_listening_and_looking_at_something	A	Faces_187_v	Neutral	1
+8033	2	2	13	young_people_in_a_circle_at_what_looks_like_a_party_in_backyard_with_a_young_black_man_in_the_forefront_dancing	A	Faces_234_h	Positive	1
+8033	2	2	14	scene_of_what_looks_like_a_slum	A	NO	n/a	0
