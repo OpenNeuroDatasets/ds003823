@@ -1,0 +1,4 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+5005	1	1	1	weird_smiling_animal	B	NO	n/a	0
+5005	1	1	2	kids_in_playground	B	NO	n/a	0
+5005	1	1	3	baby_with_a_disease	B	Faces_011_h	Negative	1
