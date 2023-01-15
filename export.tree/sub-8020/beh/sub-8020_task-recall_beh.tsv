@@ -1,0 +1,6 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+8020	2	2	1	Profile_of_black_man's_face	A	Faces_187_v	Neutral	1
+8020	2	2	2	children_playing	A	NO	n/a	0
+8020	2	2	3	brook_area_in_woods	A	NO	n/a	0
+8020	2	2	4	dune_buggy_climbing_dune	A	Objects_291_h	Positive	1
+8020	2	2	5	homeless_woman	A	NO	n/a	0

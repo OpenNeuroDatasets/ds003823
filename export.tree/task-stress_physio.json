@@ -1,0 +1,31 @@
+{
+	"SamplingFrequency":2000.0,
+	"StartTime":0,
+	"Columns":[
+		"time",
+		"ecg",
+		"rsp",
+		"bp",
+		"eda"
+	],
+	"time":{
+		"Description":"time since beginning of phase",
+		"Units":"seconds"
+	},
+	"ecg":{
+		"Description":"electrocardiogram signal",
+		"Units":"millivolts"
+	},
+	"rsp":{
+		"Description":"respiration signal",
+		"Units":"volts"
+	},
+	"bp":{
+		"Description":"continuous blood pressure signal",
+		"Units":"mmHg"
+	},
+	"eda":{
+		"Description":"electrodermal activity signal",
+		"Units":"microsiemens"
+	}
+}
