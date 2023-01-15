@@ -1,7 +1,0 @@
-participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
-7034	1	2	1	Asian_couple_who_saw_something_horrific_Woman_had_a_camera_by_her_side_like_she_was_ready_to_drop_it	B	Faces_306_v	Neutral	1
-7034	1	2	2	Horse_hooves_white_streaked_with_blood	B	Animals_029_v	Negative	1
-7034	1	2	3	Single_window_with_bars_on_it_Not_prison_bars_but_safety_bars	B	Objects_210_h	Neutral	1
-7034	1	2	4	Mangled_car_parts_rusted_in_a_pile_looks_like_they_were_from_the_1920s_rusted_on_a_dirt_ground	B	Landscapes_006_h	Negative	1
-7034	1	2	5	White_child_going_down_a_water_slide_Looks_like_he_did_it_a_lot_of_times_before_not_very_excited	B	Faces_132_h	Positive	1
-7034	1	2	6	a_yellow_coffee_mug_with_a_gold_string_or_twist_tie_around_the_handle	B	Objects_237_h	Neutral	1
