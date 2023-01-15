@@ -1,0 +1,15 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+6053	2	1	1	happy_doggo	A	Animals_209_h	Neutral	1
+6053	2	1	2	sad_doggo_with_stitches_and_a_shaved_backside	A	Animals_049_h	Negative	1
+6053	2	1	3	three_happy_people_smiling_at_me	A	NO	n/a	0
+6053	2	1	4	polluted_water_with_debris_floating_around	A	Landscapes_004_h	Negative	1
+6053	2	1	5	dog_on_stairs_with_person_sitting_nearby	A	People_149_h	Neutral	1
+6053	2	1	6	a_railway_in_a_green_area	A	Landscapes_028_h	Negative	1
+6053	2	1	7	oozing_pus_from_a_coldsore	A	People_197_h	Negative	1
+6053	2	1	8	one_woman_smiling_at_me	A	Faces_261_v	Positive	1
+6053	2	1	9	a_pair_of_scissors	A	NO	n/a	0
+6053	2	1	10	guys_backside_as_he_dives_into_the_water	A	People_196_h	Positive	1
+6053	2	1	11	children_smiling_and_playing_in_a_pool	A	Faces_134_h	Positive	1
+6053	2	1	12	a_forgotten_small_building_that_looks_like_it_may_have_burned_dow	A	NO	n/a	0
+6053	2	1	13	trail_in_nature	A	NO	n/a	0
+6053	2	1	14	man_in_suit_walking_down_the_street	A	NO	n/a	0
