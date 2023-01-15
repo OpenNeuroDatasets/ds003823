@@ -1,0 +1,5 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+8001	2	2	1	TRASH_IN_POND	B	Objects_144_h	Negative	1
+8001	2	2	2	DECREPIT_OIL_DRUM_BARRELS	B	Landscapes_006_h	Negative	1
+8001	2	2	3	YELLOW_CUP_ON_MAROON_TABLE	B	Objects_237_h	Neutral	1
+8001	2	2	4	MAN_WITH_BEARD	B	Faces_167_v	Neutral	1
