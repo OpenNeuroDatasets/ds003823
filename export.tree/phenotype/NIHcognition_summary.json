@@ -1,0 +1,108 @@
+{
+	"participant_id":{
+		"Description":"participant_id",
+		"Units":""
+	},
+	"age_group":{
+		"Description":"group by age",
+		"Levels":{
+			"YA":"younger adults",
+			"OA":"older adults"
+		}
+	},
+	"group":{
+		"Description":"increase HRV or decrease HRV",
+		"Levels":{
+			"1":"increase HRV",
+			"2":"decrease HRV"
+		}
+	},
+	"pre_flanker_Score":{
+		"Description":"raw score of flanker test at session-pre",
+		"Units":""
+	},
+	"post_flanker_Score":{
+		"Description":"raw score of flanker test at session-post",
+		"Units":""
+	},
+	"pre_LSWM_Score":{
+		"Description":"raw score of List-sorting working memory test at session-pre",
+		"Units":""
+	},
+	"post_LSWM_Score":{
+		"Description":"raw score of List-sorting working memory test at session-post",
+		"Units":""
+	},
+	"pre_PCPS_Score":{
+		"Description":"raw score of Pattern Comparison Processing Speed Test at session-pre",
+		"Units":""
+	},
+	"post_PCPS_Score":{
+		"Description":"raw score of Pattern Comparison Processing Speed Test at session-post",
+		"Units":""
+	},
+	"pre_flanker_compScore":{
+		"Description":"computed score of flanker test at session-pre",
+		"Units":""
+	},
+	"post_flanker_compScore":{
+		"Description":"computed score of flanker test at session-post",
+		"Units":""
+	},
+	"pre_PCPS_compScore":{
+		"Description":"computed score of PCPS test at session-pre",
+		"Units":""
+	},
+	"post_PCPS_compScore":{
+		"Description":"computed score of PCPS test at session-post",
+		"Units":""
+	},
+	"pre_flanker_standardScore":{
+		"Description":"uncorrected standard score of flanker test at session-pre",
+		"Units":""
+	},
+	"post_flanker_standardScore":{
+		"Description":"uncorrected standard score of flanker test at session-post",
+		"Units":""
+	},
+	"pre_LSWM_standardScore":{
+		"Description":"uncorrected standard score of LSWM test at session-pre",
+		"Units":""
+	},
+	"post_LSWM_standardScore":{
+		"Description":"uncorrected standard score of LSWM test at session-post",
+		"Units":""
+	},
+	"pre_PCPS_standardScore":{
+		"Description":"uncorrected standard score of PCPS test at session-pre",
+		"Units":""
+	},
+	"post_PCPS_standardScore":{
+		"Description":"uncorrected standard score of PCPS test at session-post",
+		"Units":""
+	},
+	"pre_flanker_ageScore":{
+		"Description":"age corrected standard score of flanker test at session-pre",
+		"Units":""
+	},
+	"post_flanker_ageScore":{
+		"Description":"age corrected standard score of flanker test at session-post",
+		"Units":""
+	},
+	"pre_LSWM_ageScore":{
+		"Description":"age corrected standard score of LSWM test at session-pre",
+		"Units":""
+	},
+	"post_LSWM_ageScore":{
+		"Description":"age corrected standard score of LSWM test at session-post",
+		"Units":""
+	},
+	"pre_PCPS_ageScore":{
+		"Description":"age corrected standard score of PCPS test at session-pre",
+		"Units":""
+	},
+	"post_PCPS_ageScore":{
+		"Description":"age corrected standard score of PCPS test at session-post",
+		"Units":""
+	}
+}

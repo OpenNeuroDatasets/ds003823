@@ -1,0 +1,9 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+6045	2	1	1	A_picture_of_pizza_with_many_toppings_such_as_tomatoes_broccoli_and_cheese	B	Objects_078_h	Positive	1
+6045	2	1	2	A_picture_of_a_person_performing_adventure_sports_in_water	B	NO	n/a	0
+6045	2	1	3	A_picture_of_polluted_water_with_traces_of_oil_and_wood	B	Objects_144_h	Negative	1
+6045	2	1	4	A_picture_of_a_wooden_house_surrounded_with_farms_and_giving_a_rustic_view	B	Landscapes_019_h	Neutral	1
+6045	2	1	5	A_picture_of_a_kid_smiling	B	NO	n/a	0
+6045	2	1	6	A_picture_where_two_people_are_dancing_which_depicts_the_culture_of_that_dance	B	NO	n/a	0
+6045	2	1	7	A_picture_of_butterfly_with_colorful_feathers	B	NO	n/a	0
+6045	2	1	8	A_picture_of_cookies_kept_on_a_plate	B	NO	n/a	0
