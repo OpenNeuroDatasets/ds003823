@@ -1,0 +1,7 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+7001	1	2	1	An_Indian_looking_man_jesting_or_dancing_with_his_friends	B	Faces_361_v	Positive	1
+7001	1	2	2	A_dead_body_near_the_entrance_to_a_room	B	NO	n/a	0
+7001	1	2	3	A_beautiful_green_field_with_a_dilapidated_looking_wood_shack	B	Landscapes_019_h	Neutral	1
+7001	1	2	4	A_boy_going_through_a_slide	B	Faces_132_h	Positive	1
+7001	1	2	5	A_celebration_or_some_kind_of_festival_with_people_happy	B	NO	n/a	0
+7001	1	2	6	A_dead_looking_sea_creature_floating_on_the_water	B	NO	n/a	0
