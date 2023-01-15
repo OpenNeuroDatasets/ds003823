@@ -1,6 +1,0 @@
-participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
-7008	1	2	1	little_cookies_arranged_in_a_grid	B	NO	n/a	0
-7008	1	2	2	a_wall_with_a_window_a_metal_screen_over_the_window	B	Objects_210_h	Neutral	1
-7008	1	2	3	dead_bird_black_in_water	B	NO	n/a	0
-7008	1	2	4	miscellaneous_industrial_waste_in_water	B	Objects_144_h	Negative	1
-7008	1	2	5	young_men_wearing_sport_uniforms_happy	B	Faces_321_h	Positive	1
