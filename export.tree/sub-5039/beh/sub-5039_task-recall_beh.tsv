@@ -1,7 +1,0 @@
-participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
-5039	1	1	1	overflowed_trash_can_sitting_at_edge_of_street	B	Objects_188_v	Negative	1
-5039	1	1	2	little_boy_with_oxygen_laying_on_a_bed	B	Faces_011_h	Negative	1
-5039	1	1	3	dark_wood_house_sitting_in_middle_of_nowhere	B	Landscapes_019_h	Neutral	1
-5039	1	1	4	an_older_couple_being_cute	B	Faces_306_v	Neutral	1
-5039	1	1	5	someone_holding_a_cigarette	B	People_085_h	Negative	1
-5039	1	1	6	a_compromising_sex_position	B	NO	n/a	0
