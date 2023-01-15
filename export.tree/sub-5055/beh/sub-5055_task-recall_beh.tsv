@@ -1,0 +1,8 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+5055	1	1	1	car_going_off_the_jump	A	Objects_291_h	Positive	1
+5055	1	1	2	close_up_picture_of_the_fish	A	NO	n/a	0
+5055	1	1	3	the_chocolate_cake_with_the_berries	A	Objects_080_h	Positive	1
+5055	1	1	4	multiple_people_sleeping_on_the_ground_couldn't_see_their_whole_bodies	A	People_119_h	Negative	1
+5055	1	1	5	man_sitting_on_the_steps_with_dog_below_him	A	People_149_h	Neutral	1
+5055	1	1	6	the_plant_that_was_drooping_into_the_water	A	Landscapes_111_h	Neutral	1
+5055	1	1	7	a_lady_with_short_curly_hair	A	Faces_220_h	Neutral	1

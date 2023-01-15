@@ -1,0 +1,7 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+7012	1	2	1	three_men_with_rakes_standing_next_to_a_bin	A	People_146_h	Neutral	1
+7012	1	2	2	woman_with_a_sad_expression	A	NO	n/a	0
+7012	1	2	3	a_boy_and_girl_jumping_into_a_pool	A	Faces_134_h	Positive	1
+7012	1	2	4	children_playing_in_a_pool	A	NO	n/a	0
+7012	1	2	5	an_apartment_building	A	Landscapes_016_h	Neutral	1
+7012	1	2	6	abandoned_buildings	A	Landscapes_010_h	Negative	1
