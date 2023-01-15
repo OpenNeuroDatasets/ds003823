@@ -1,0 +1,9 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+5052	1	1	1	caged_window	B	Objects_210_h	Neutral	1
+5052	1	1	2	woman_begging_on_the_street	B	Faces_303_h	Negative	1
+5052	1	1	3	butter_fly_in_a_lake	B	Animals_093_h	Neutral	1
+5052	1	1	4	dog_playing	B	Animals_175_h	Positive	1
+5052	1	1	5	a_malnourished_black_girl	B	Faces_197_v	Neutral	1
+5052	1	1	6	food_items_on_a_table	B	NO	n/a	0
+5052	1	1	7	picture_of_wooden_floor	B	NO	n/a	0
+5052	1	1	8	house_in_a_field	B	Landscapes_019_h	Neutral	1
