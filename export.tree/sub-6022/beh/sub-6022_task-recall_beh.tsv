@@ -1,0 +1,11 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+6022	2	1	1	Sad_monkey_behind_fence	A	Animals_053_h	Negative	1
+6022	2	1	2	Smiling_happy_brown_dog	A	Animals_209_h	Neutral	1
+6022	2	1	3	Man_sitting_on_steps_with_dog_sitting_a_few_steps_down	A	People_149_h	Neutral	1
+6022	2	1	4	Person_parachuting	A	People_183_h	Positive	1
+6022	2	1	5	Two_kids_jumping_into_swimming_pool	A	Faces_134_h	Positive	1
+6022	2	1	6	Man_jumping_into_a_pool_stomach_first	A	People_196_h	Positive	1
+6022	2	1	7	Dead_fish_surrounded_by_trash	A	Animals_064_v	Negative	1
+6022	2	1	8	Women_smiling_missing_a_tooth	A	Faces_261_v	Positive	1
+6022	2	1	9	A_wet_area_with_buildings_covered_in_vines	A	Landscapes_010_h	Negative	1
+6022	2	1	10	Neutral_looking_man_in_a_suit	A	Faces_187_v	Neutral	1
