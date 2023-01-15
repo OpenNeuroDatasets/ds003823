@@ -1,0 +1,52 @@
+{
+	"participant_id":{
+		"Description":"participant ID"
+	},
+	"group":{
+		"Description":"increase HRV or decrease HRV",
+		"Levels":{
+			"1":"increase HRV",
+			"2":"decrease HRV"
+		}
+	},
+	"age_category":{
+		"Description":"OA or YA",
+		"Levels":{
+			"1":"younger adult",
+			"2":"older adult"
+		}
+	},
+	"item":{
+		"Description":"number of item recalled"
+	},
+	"recall_response":{
+		"Description":"free recall description of image from participant"
+	},
+	"set":{
+		"Description":"image set viewed in week 4",
+		"Levels":{
+			"A":"set A",
+			"B":"set B"
+		}
+	},
+	"final_code":{
+		"Description":"final code for image based on 2 coders"
+	},
+	"valence":{
+		"Description":"emotional category of image",
+		"Levels":{
+			"1":"neutral",
+			"2":"positive",
+			"3":"negative",
+			"N/A":"none if recall doesn't match image in set"
+		}
+	},
+	"correct":{
+		"Description":"accuracy of response provided by participant",
+		"Levels":{
+			"1":"correct",
+			"2":"inccorrect"
+		}
+	}
+
+}
