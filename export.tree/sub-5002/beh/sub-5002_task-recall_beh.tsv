@@ -1,0 +1,9 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+5002	1	1	1	young_lady_wearing_an_orange_scarf_staring_right_at_the_camera	B	Faces_197_v	Neutral	1
+5002	1	1	2	a_kid_in_blue_top_lying_on_bed_with_some_kind_of_tube_running_through_the_nostrils	B	Faces_011_h	Negative	1
+5002	1	1	3	a_guy_in_blue_shirt_skiing	B	NO	n/a	0
+5002	1	1	4	a_guy_in_a_black_suit_scuba_diving	B	People_130_h	Positive	1
+5002	1	1	5	a_guy_in_mid_air_while_surfing_and_he's_holding_the_support_from_a_motor_boat_and_a_guy_in_the_background_looking_at_him	B	People_189_h	Positive	1
+5002	1	1	6	a_few_rusted_metal_items_in_a_open_field	B	People_012_h	Negative	1
+5002	1	1	7	a_beautiful_landscape_with_green_grass_everywhere_and_a_small_house_in_the_middle	B	Landscapes_019_h	Neutral	1
+5002	1	1	8	a_picture_of_a_dog_catching_a_blue_frisbee	B	NO	n/a	0
