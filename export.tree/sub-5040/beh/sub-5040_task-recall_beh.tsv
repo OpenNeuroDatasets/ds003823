@@ -1,0 +1,5 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+5040	1	1	1	a_guy_sitting_on_stairs_with_a_dog_lying_down	A	People_149_h	Neutral	1
+5040	1	1	2	many_homeless_people_sleeping_on_the_floor	A	People_119_h	Negative	1
+5040	1	1	3	a_child_smiling	A	NO	n/a	0
+5040	1	1	4	a_mother_and_a_baby	A	NO	n/a	0
