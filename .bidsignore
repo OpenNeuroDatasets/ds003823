@@ -3,10 +3,10 @@
 /phenotype/*
 /derivatives/*
 /*/*/perf/*
-/beh/*
 /ses-calibration/beh/*
 /ses-home/beh/*
+/*/*/*beh*
 /*/*/*/*beh*
 /*/*/*/*event*
-
+/*/*/*/*echo*
 readme_ultimatum_game.txt
