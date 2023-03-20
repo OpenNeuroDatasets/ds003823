@@ -1,6 +1,7 @@
 *_beh.json
 *_events.json
 /phenotype/Whoop*
+/phenotype/plasma*
 /derivatives/*
 readme_ultimatum_game.txt
 /*/*/perf/*
