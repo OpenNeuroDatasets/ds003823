@@ -47,7 +47,8 @@ Data type
 4.	Picture memory task
 5.	HRV data-: lab calibration, Home training
 6.	Stress task: Physiological data, Behavioral data
-7.	MRI data: 
+7.	Blood plasma Aβ42, Aβ40, pTau, and tTau
+8.	MRI data: 
      a.	Anatomical-T1
      b.	Anatomical-TSE
      c.	Anatomical-MRS
