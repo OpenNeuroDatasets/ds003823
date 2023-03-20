@@ -59,6 +59,13 @@
       "0":"no"
     }
   },
+  "BloodPlasma":{
+    "Description":"Blood Plasma data exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
   "ses-pre_task-NIHcognition":{
     "Description":"NIHcognition data at pre session exist ",
     "Levels":{
