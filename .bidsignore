@@ -1,12 +1,12 @@
 *_beh.json
 *_events.json
-/phenotype/Whoop*
-/phenotype/plasma*
+/phenotype/*
 /derivatives/*
-readme_ultimatum_game.txt
 /*/*/perf/*
 /beh/*
 /ses-calibration/beh/*
 /ses-home/beh/*
 /*/*/*/*beh*
 /*/*/*/*event*
+
+readme_ultimatum_game.txt
