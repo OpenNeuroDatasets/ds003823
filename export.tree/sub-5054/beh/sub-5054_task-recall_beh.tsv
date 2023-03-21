@@ -1,9 +1,0 @@
-participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
-5054	1	1	1	hot_air_balloon	A	NO	n/a	0
-5054	1	1	2	man_and_boy_sleeping_on_floor_facing_opposite_sides	A	NO	n/a	0
-5054	1	1	3	group_of_kids_carrying_another_kid_horizontally_and_facing_the_camera	A	NO	n/a	0
-5054	1	1	4	close_up_of_bee_in_flower	A	NO	n/a	0
-5054	1	1	5	two_chocloate_cars_in_the_shape_of_cars	A	Objects_080_h	Positive	1
-5054	1	1	6	group_of_people_playing_african_drums_in_dashikis	A	Faces_234_h	Positive	1
-5054	1	1	7	close_up_of_a_plus-sized_woman_facing_away_at_a_bus_stop	A	Faces_220_h	Neutral	1
-5054	1	1	8	backyard_of_houses_after_a_rainstorm_had_passed_perhaps_it_was_dark_and_lots_of_brown	A	Landscapes_010_h	Negative	1
