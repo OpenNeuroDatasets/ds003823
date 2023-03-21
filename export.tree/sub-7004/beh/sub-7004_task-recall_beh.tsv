@@ -1,0 +1,13 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+7004	1	2	1	Blue_butterfly_with_iridescent_wings	B	NO	n/a	0
+7004	1	2	2	person_on_a_skies_skying_down_a_slope	B	People_096_h	Positive	1
+7004	1	2	3	a_collection_of_rocks_with_drifts_of_snow	B	NO	n/a	0
+7004	1	2	4	a_buffet_set_up_with_appetizers_in_neat_geometric_configurations	B	Objects_037_h	Positive	1
+7004	1	2	5	a_window_with_bars	B	Objects_210_h	Neutral	1
+7004	1	2	6	a_child_with_a_wide_grin_appears_to_be_laughing	B	NO	n/a	0
+7004	1	2	7	a_herd_of_goats_playing	B	NO	n/a	0
+7004	1	2	8	an_elderly_man_sitting_on_a_park_bench_hanging_his_head_down	B	People_159_h	Neutral	1
+7004	1	2	9	a_woman_with_tattered_clothes_appears_to_be_holding_a_cup_out_evidently_hoping_for_money	B	Faces_303_h	Negative	1
+7004	1	2	10	a_picture_of_a_pizza_with_toppings	B	Objects_078_h	Positive	1
+7004	1	2	11	a_elegant_looking_woman_who_appears_by_her_clothing_and_adornments_to_be_Ethiopian_or_possible_a_citizen_of_another_African_country	B	Faces_197_v	Neutral	1
+7004	1	2	12	a_teacup_or_possibly_a_coffee_cup_with_a_geometric_pattern_that_as_I_recall_it_very_nondescript	B	Objects_237_h	Neutral	1

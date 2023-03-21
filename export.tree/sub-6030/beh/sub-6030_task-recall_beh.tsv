@@ -1,0 +1,8 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+6030	2	1	1	yellow_and_green_melted_trash_can	B	Objects_188_v	Negative	1
+6030	2	1	2	two_people_water_skying	B	People_189_h	Positive	1
+6030	2	1	3	border_collie_catching_a_frisbee	B	Animals_175_h	Positive	1
+6030	2	1	4	child_with_a_respirator(?)_laying_on_a_bed	B	Faces_011_h	Negative	1
+6030	2	1	5	infrastructural_pipes_in_a_field	B	Landscapes_060_h	Neutral	1
+6030	2	1	6	black_beetle_in_orange_leaves	B	Animals_082_h	Neutral	1
+6030	2	1	7	snowy_sky_slope_with_a_sky_lift	B	People_096_h	Positive	1

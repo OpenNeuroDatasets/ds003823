@@ -1,0 +1,6 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+8018	2	2	1	railroad_tracks_with_weeds_and_junk	A	Landscapes_028_h	Negative	1
+8018	2	2	2	right_side_of_a_woman's_face_with_a_tear_running_down	A	Faces_175_v	Negative	1
+8018	2	2	3	parasailed_with_colorful_chute_being_pulled_by_a_boat	A	People_183_h	Positive	1
+8018	2	2	4	multicolored_multi-use_houses	A	Landscapes_016_h	Neutral	1
+8018	2	2	5	A_black_man's_face--smiling?	A	NO	n/a	0
