@@ -1,7 +1,0 @@
-participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
-5020	1	1	1	A_dog_catching_a_Frisbee	B	Animals_175_h	Positive	1
-5020	1	1	2	Junk_in_junkyard	B	Landscapes_006_h	Negative	1
-5020	1	1	3	An_elderly_Asian_couple_in_foreign_land	B	Faces_306_v	Neutral	1
-5020	1	1	4	A_woman_holding_a_cup_begging_for_money	B	Faces_303_h	Negative	1
-5020	1	1	5	A_child_fitted_with_a_catheter_tube	B	NO	n/a	0
-5020	1	1	6	A_window_on_a_wall	B	Objects_210_h	Neutral	1
