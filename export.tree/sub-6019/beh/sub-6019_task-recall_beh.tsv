@@ -1,6 +1,0 @@
-participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
-6019	2	1	1	homeless_people_lying_in_the_street	A	People_119_h	Negative	1
-6019	2	1	2	children_diving_into_a_pool	A	Faces_134_h	Positive	1
-6019	2	1	3	drainage_under_a_bridge	A	Landscapes_012_h	Neutral	1
-6019	2	1	4	a_beautiful_landscape	A	NO	n/a	0
-6019	2	1	5	an_orungutan_hanging_from_a_cable	A	Animals_117_h	Positive	1

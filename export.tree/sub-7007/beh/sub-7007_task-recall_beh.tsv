@@ -1,9 +1,0 @@
-participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
-7007	1	2	1	very_dirty_outdoor_toilet	A	Objects_110_v	Negative	1
-7007	1	2	2	young_man_enthusiastically_jumping_into_pool_lots_of_others_already_in_the_pool_having_fun	A	People_196_h	Positive	1
-7007	1	2	3	butterfly	A	Animals_106_h	Positive	1
-7007	1	2	4	two_youngsters_enthusiastically_jumping_into_pool_maybe_holding_hands_others_already_having_fun_in_and_around_the_pool	A	NO	n/a	0
-7007	1	2	5	woman_crying_tear_running_down_her_face	A	Faces_175_v	Negative	1
-7007	1	2	6	insect_with_rugged_skin	A	NO	n/a	0
-7007	1	2	7	dog_right_after_surgery_shaved_abdomen_stitches_showing	A	Animals_049_h	Negative	1
-7007	1	2	8	group_of_seemingly_non-African_people_outside_in_dusty_area_sort_of_in_a_circle_seemingly_learning_a_dance_from_an_African_man_perhaps_the_event_is_in_Africa	A	Faces_234_h	Positive	1
