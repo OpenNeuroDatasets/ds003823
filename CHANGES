@@ -1,3 +1,7 @@
+1.3.0 2023-03-21
+  - Add blood plasma data in phenotype folder; plasma_ab_tau_summary.tsv
+  - Correct file name for multi-echo scans
+  - Update the participants.tsv file by adding blood plasma data column
 1.2.5 2023-01-15
   - Corrected data description reference citation
 1.2.4 2023-01-15
