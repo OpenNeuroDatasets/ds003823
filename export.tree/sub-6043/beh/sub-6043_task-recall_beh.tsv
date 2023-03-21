@@ -1,0 +1,16 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+6043	2	1	1	Dead_Fish_on_surface_of_water	A	Animals_064_v	Negative	1
+6043	2	1	2	Man_Jumping_Pool	A	People_196_h	Positive	1
+6043	2	1	3	Kid_Jumping_in_Pool	A	Faces_134_h	Positive	1
+6043	2	1	4	Chocolate_cake_desert	A	Objects_080_h	Positive	1
+6043	2	1	5	Apartment_building_with_multiple_stories	A	Landscapes_016_h	Neutral	1
+6043	2	1	6	Old_looking_bridge_tunnel_with_pipes_sticking_out_of_it	A	Landscapes_012_h	Neutral	1
+6043	2	1	7	Hurt_puppy_with_tubes_attached_to_it	A	Animals_049_h	Negative	1
+6043	2	1	8	Multiple_people_sleeping_outside	A	People_119_h	Negative	1
+6043	2	1	9	Man_and_dog_on_some_stairs	A	People_149_h	Neutral	1
+6043	2	1	10	Monkey_behind_fence	A	Animals_053_h	Negative	1
+6043	2	1	11	Orangutang_swinging_from_rope	A	Animals_117_h	Positive	1
+6043	2	1	12	Lady_smiling_at_camera_missing_teeth	A	Faces_261_v	Positive	1
+6043	2	1	13	White_lady_looking_at_camera_in_front_of_some_white_building	A	Faces_220_h	Neutral	1
+6043	2	1	14	Old_dirty_toilet	A	Objects_110_v	Negative	1
+6043	2	1	15	dead_strawlike_plants	A	Objects_112_h	Neutral	1
