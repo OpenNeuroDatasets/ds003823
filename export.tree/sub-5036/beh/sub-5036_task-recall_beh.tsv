@@ -1,0 +1,5 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+5036	1	1	1	Some_kids_playing_at_the_swimming_pool	A	Faces_134_h	Positive	1
+5036	1	1	2	A_dog_in_the_street	A	Animals_209_h	Neutral	1
+5036	1	1	3	A_woman_smiling	A	NO	n/a	0
+5036	1	1	4	A_butterfly's_wing_is_colorful	A	Animals_106_h	Positive	1
