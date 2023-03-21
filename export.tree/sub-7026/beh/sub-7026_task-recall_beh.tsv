@@ -1,0 +1,8 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+7026	1	2	1	goats_near_a_fence	B	Animals_165_h	Positive	1
+7026	1	2	2	soccer_players_celebrating_a_goal	B	Faces_321_h	Positive	1
+7026	1	2	3	somber_woman_with_head_scarf	B	NO	n/a	0
+7026	1	2	4	man_with_mouth_open_seemingly_in_distress	B	Faces_173_v	Negative	1
+7026	1	2	5	detritus_on_a_beach	B	Objects_144_h	Negative	1
+7026	1	2	6	a_bunch_of_old_metal_discarded_in_a_field	B	People_012_h	Negative	1
+7026	1	2	7	a_dead_sea_bird	B	Animals_017_v	Negative	1

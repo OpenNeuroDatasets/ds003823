@@ -1,0 +1,5 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+7013	1	2	1	a_sailplane_at_the_beach	A	NO	n/a	0
+7013	1	2	2	railroad_tracks_with_dead_leaves	A	Landscapes_028_h	Negative	1
+7013	1	2	3	a_fancy_red_car	A	NO	n/a	0
+7013	1	2	4	kids_facing_forward	A	NO	n/a	0
