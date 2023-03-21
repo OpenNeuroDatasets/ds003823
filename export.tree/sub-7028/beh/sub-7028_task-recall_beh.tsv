@@ -1,0 +1,14 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+7028	1	2	1	A_man_and_dog_sleeping_on_porch	A	People_149_h	Neutral	1
+7028	1	2	2	kids_playing_in_a_swimming_pool	A	Faces_134_h	Positive	1
+7028	1	2	3	a_dirty_lake_with_a_wet_and_soggy_pad	A	NO	n/a	0
+7028	1	2	4	a_man_jumping_in_a_swimming_pool	A	People_196_h	Positive	1
+7028	1	2	5	a_picture_of_an_black_girl	A	Faces_261_v	Positive	1
+7028	1	2	6	men_cleaning_a_yard_using_a_green_recycle_bin	A	People_146_h	Neutral	1
+7028	1	2	7	a_picture_of_a_burning	A	NO	n/a	0
+7028	1	2	8	house	A	NO	n/a	0
+7028	1	2	9	a_picture_of_a_dead_fish	A	Animals_064_v	Negative	1
+7028	1	2	10	a_lake_with_a_plant_with_one_dead_leaf	A	NO	n/a	0
+7028	1	2	11	a_picture_of_a_black_dog_with_stitches	A	Animals_049_h	Negative	1
+7028	1	2	12	a_lady_breast_feeding_her_baby	A	NO	n/a	0
+7028	1	2	13	a_lady_and_man_having_sex	A	NO	n/a	0
