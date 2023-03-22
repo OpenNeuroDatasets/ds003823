@@ -24,7 +24,8 @@
         "Institutional Review Boards (IRBs) UP-17-00219"
     ],
     "ReferencesAndLinks": [
-        ""
+        "",
+        "https://openneuro.org/datasets/ds003823"
     ],
     "DatasetDOI": "doi:10.18112/openneuro.ds003823.v1.3.0"
 }
