@@ -1,0 +1,68 @@
+{
+	"participant_id":{
+		"Description":"participant ID",
+		"Units":""
+	},
+	"age_group":{
+		"Description":"group by age",
+		"Levels":{
+			"ya":"younger adults",
+			"oa":"older adults"
+		}
+	},
+	"group":{
+		"Description":"increase HRV or decrease HRV",
+		"Levels":{
+			"1":"increase HRV",
+			"2":"decrease HRV"
+		}
+	},
+	"pre_ab42":{
+		"Description":"level of plasma amyloid beta 42 at session-pre",
+		"Units":"pg/ml"
+	},
+	"pre_ab40":{
+		"Description":"level of plasma amyloid beta 40 at session-pre",
+		"Units":"pg/ml"
+	},
+	"pre_ab42_ab40_ratio":{
+		"Description":"ratio of plasma amyloid beta 42 to amyloid beta 40 at session-pre",
+		"Units":""
+	},
+	"pre_tau":{
+		"Description":"level of plasma total tau at session-pre",
+		"Units":"pg/ml"
+	},
+	"pre_ptau":{
+		"Description":"level of plasma phosphorylated tau 181 at session-pre",
+		"Units":"pg/ml"
+	},
+	"pre_ptau_tau_ratio":{
+		"Description":"ratio of plasma phosphorylated tau 181 to total tau at session-pre",
+		"Units":""
+	},
+	"post_ab42":{
+		"Description":"level of plasma amyloid beta 42 at session-post",
+		"Units":"pg/ml"
+	},
+	"post_ab40":{
+		"Description":"level of plasma amyloid beta 40 at session-post",
+		"Units":"pg/ml"
+	},
+	"post_ab42_ab40_ratio":{
+		"Description":"ratio of plasma amyloid beta 42 to amyloid beta 40 at session-post",
+		"Units":""
+	},
+	"post_tau":{
+		"Description":"level of plasma total tau at session-post",
+		"Units":"pg/ml"
+	},
+	"post_ptau":{
+		"Description":"level of plasma phosphorylated tau 181 at session-post",
+		"Units":"pg/ml"
+	},
+	"post_ptau_tau_ratio":{
+		"Description":"ratio of plasma phosphorylated tau 181 to total tau at session-post",
+		"Units":""
+	},
+	}
