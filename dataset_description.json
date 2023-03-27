@@ -38,8 +38,8 @@
         "Institutional Review Boards (IRBs) UP-17-00219"
     ],
     "ReferencesAndLinks": [
-        "https://openneuro.org/datasets/ds003823",
-        "Yoo et al. (2022) Multimodal neuroimaging data from a 5-week heart rate variability biofeedback randomized clinical trial. MedRxiv https://www.medrxiv.org/content/10.1101/2022.12.28.22283798v1"
+        "Yoo et al. (2022) Multimodal neuroimaging data from a 5-week heart rate variability biofeedback randomized clinical trial. MedRxiv https://www.medrxiv.org/content/10.1101/2022.12.28.22283798v1",
+        "https://openneuro.org/datasets/ds003823"
     ],
     "DatasetDOI": "doi:10.18112/openneuro.ds003823.v1.3.2"
 }
