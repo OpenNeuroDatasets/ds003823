@@ -1,0 +1,8 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+5003	1	1	1	rural_area_with_house_and_wet_ground	A	Landscapes_010_h	Negative	1
+5003	1	1	2	injured_dog	A	Animals_049_h	Negative	1
+5003	1	1	3	young_boy_and_girl_jumping_into_the_swimming_pool	A	Faces_134_h	Positive	1
+5003	1	1	4	men_jumping_into_the_swimming_pool	A	People_196_h	Positive	1
+5003	1	1	5	three_old_condo_together	A	Landscapes_016_h	Neutral	1
+5003	1	1	6	monkey_hanging_on_the_steel_cable	A	Animals_117_h	Positive	1
+5003	1	1	7	fat_woman	A	Faces_220_h	Neutral	1

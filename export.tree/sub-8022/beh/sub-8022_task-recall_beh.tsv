@@ -1,0 +1,16 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+8022	2	2	1	woman_with_canker_soars	A	People_197_h	Negative	1
+8022	2	2	2	elderly_Hungarian_woman_looking_to_her_left	A	NO	n/a	0
+8022	2	2	3	Afro-american_man_with_short_hair	A	NO	n/a	0
+8022	2	2	4	brown_short_hair_dog_with_leash_hanging_from_his_collar	A	Animals_209_h	Neutral	1
+8022	2	2	5	black_and_brown_short_hair_terrier	A	Animals_049_h	Negative	1
+8022	2	2	6	crowd_of_people_at_outdoor_event_waiting_in_line	A	NO	n/a	0
+8022	2	2	7	African_woman_in_traditional_clothing_looking_toward_my_left	A	Faces_261_v	Positive	1
+8022	2	2	8	boy_and_girl_jumping_into_public_pool	A	Faces_134_h	Positive	1
+8022	2	2	9	e_man_diving_into_public_pool	A	People_196_h	Positive	1
+8022	2	2	10	head_shot_of_gold_colored_fish_facing_to_my_right	A	Animals_088_h	Neutral	1
+8022	2	2	11	trout_in_and_around_water_plants_in_a_pond	A	Animals_064_v	Negative	1
+8022	2	2	12	chocolate_cake_cut_into_3_portions	A	Objects_080_h	Positive	1
+8022	2	2	13	woman_kissing_man_on_side_of_head	A	NO	n/a	0
+8022	2	2	14	street_scene_with_litter_and_trash	A	NO	n/a	0
+8022	2	2	15	an_injured_man	A	NO	n/a	0
