@@ -1,6 +1,0 @@
-participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
-5050	1	1	1	person_parasailing	A	People_183_h	Positive	1
-5050	1	1	2	kids_jumping_into_a_pool_looking_up_at_the_camera	A	Faces_134_h	Positive	1
-5050	1	1	3	dog_with_injuries_getting_help	A	Animals_049_h	Negative	1
-5050	1	1	4	man_sitting_on_step_with_dog_on_a_lower_step	A	People_149_h	Neutral	1
-5050	1	1	5	three_shack-like_houses_on_a_hill	A	Landscapes_010_h	Negative	1
