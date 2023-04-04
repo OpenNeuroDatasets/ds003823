@@ -1,9 +1,0 @@
-participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
-7023	1	2	1	Middle_aged_woman_with_a_tear_streaming_down_the_right_side_of_her_face	A	Faces_175_v	Negative	1
-7023	1	2	2	Young_Black_male_with_a_scowl_about_his_face_black_hair	A	Faces_187_v	Neutral	1
-7023	1	2	3	Dark_colored_puppy_awake_and_content	A	NO	n/a	0
-7023	1	2	4	Muddy_non-paved_country_road_leading_away_from_a_rural_dwelling	A	Landscapes_010_h	Negative	1
-7023	1	2	5	Children_playing_in_swimming_pool_with_look_of_excitement_and_joy	A	Faces_134_h	Positive	1
-7023	1	2	6	Young_white_children_playing_with_rope	A	NO	n/a	0
-7023	1	2	7	Expressionless_woman_with_pale_skin	A	NO	n/a	0
-7023	1	2	8	laughter_in_adult_and_child	A	NO	n/a	0
