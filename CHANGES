@@ -1,3 +1,5 @@
+1.3.3 2023-04-04
+  - Add the data dictionary json files in derivatives folder
 1.3.2 2023-03-27
   - Add the VOI information in /derivatives/MRS/MRS_summary.tsv file
 1.3.1 2023-03-27
