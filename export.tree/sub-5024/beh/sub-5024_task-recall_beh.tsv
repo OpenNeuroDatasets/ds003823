@@ -1,9 +1,0 @@
-participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
-5024	1	1	1	girl_smiling	B	NO	n/a	0
-5024	1	1	2	people_standing_outside_in_front_of_a_car	B	NO	n/a	0
-5024	1	1	3	person_holding_gun	B	NO	n/a	0
-5024	1	1	4	yellow_mug	B	Objects_237_h	Neutral	1
-5024	1	1	5	white_window	B	NO	n/a	0
-5024	1	1	6	black_girl_staring	B	Faces_197_v	Neutral	1
-5024	1	1	7	algae_or_dirt_in_the_sand	B	Objects_144_h	Negative	1
-5024	1	1	8	injured_baby	B	Faces_011_h	Negative	1
