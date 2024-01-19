@@ -1,9 +1,0 @@
-participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
-8027	2	2	1	Man_diving_into_pool_with_black_swim_trunks	A	People_196_h	Positive	1
-8027	2	2	2	Chicken	A	Animals_105_h	Neutral	1
-8027	2	2	3	Dog_partially_shaven_with_stitched_up_wound	A	Animals_049_h	Negative	1
-8027	2	2	4	Children_in_pool	A	Faces_134_h	Positive	1
-8027	2	2	5	Cement_wall_with_metal_poles_on_top	A	Landscapes_012_h	Neutral	1
-8027	2	2	6	Pleasant_looking_woman_with_slightly_deformed_face	A	Faces_151_v	Negative	1
-8027	2	2	7	Several_people_sprawled_on_the_ground_(homeless?)	A	People_119_h	Negative	1
-8027	2	2	8	Man_tied_to_a_pole_on_his_knees	A	NO	n/a	0
