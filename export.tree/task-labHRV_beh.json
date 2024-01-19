@@ -1,0 +1,15 @@
+{
+	"ibi":{
+		"Description":"interval between two consecutive heart beats",
+		"Units":"milliseconds"
+	},
+	"time":{
+		"Description":"week of measurement"
+	},
+	"condition":{
+		"Description":"biofeedback training condition"
+	},
+	"order":{
+		"Description":"order admistered"
+	}
+}

@@ -1,0 +1,6 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+8029	2	2	1	street_musicians_looking_happy	B	Faces_361_v	Positive	1
+8029	2	2	2	bloodie_legs	B	Animals_029_v	Negative	1
+8029	2	2	3	kid_with_canula_in_nose	B	Faces_011_h	Negative	1
+8029	2	2	4	butterfly_in_leafs	B	Animals_093_h	Neutral	1
+8029	2	2	5	dog_catching_frisbee	B	Animals_175_h	Positive	1
