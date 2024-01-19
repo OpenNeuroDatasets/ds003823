@@ -1,0 +1,9 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+8019	2	2	1	Middle_eastern_woman_with_textile_covering_her_head	B	NO	n/a	0
+8019	2	2	2	cow_with_red_liquid_on_her_legs	B	Animals_029_v	Negative	1
+8019	2	2	3	rusty_rail_machinery	B	Landscapes_006_h	Negative	1
+8019	2	2	4	weathered_shack_in_green_field	B	Landscapes_019_h	Neutral	1
+8019	2	2	5	debris_including_empty_plastic_bottles_washed_up_at_low_tide	B	Objects_144_h	Negative	1
+8019	2	2	6	ashtray_filled_with_cigarette_butts	B	People_085_h	Negative	1
+8019	2	2	7	boats_aground_at_low_tide	B	People_104_h	Neutral	1
+8019	2	2	8	sports_players(soccer?)_jumping_together_in_celebratory_fashion	B	Faces_321_h	Positive	1
