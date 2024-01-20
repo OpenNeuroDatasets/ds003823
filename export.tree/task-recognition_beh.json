@@ -1,0 +1,83 @@
+{
+	"participant_id":{
+		"Description":"participant ID"
+	},
+	"group":{
+		"Description":"increase HRV or decrease HRV",
+		"Levels":{
+			"1":"increase HRV",
+			"2":"decrease HRV"
+		}
+	},
+	"age_category":{
+		"Description":"OA or YA",
+		"Levels":{
+			"OA":"older adult",
+			"YA":"younger adult"
+		}
+	},
+	"item":{
+		"Description":"item number of image in task"
+	},
+	"wk4_setview":{
+		"Description":"image set viewed in week 4",
+		"Levels":{
+			"A":"set A",
+			"B":"set B"
+		}
+	},
+	"pic_set":{
+		"Description":"set in which image belongs",
+		"Levels":{
+			"A":"set A",
+			"B":"set B"
+		}
+	},
+	"old_new":{
+		"Description":"image is new or old",
+		"Levels":{
+			"new":"image is new, and not seen in week 4",
+			"old":"image is old, and seen in week 4"
+		}
+	},
+	"qualtrics_num":{
+		"Description":"question number listed in qualtrics"
+	},
+	"naps_id":{
+		"Description":"full image id from NAPS"
+	},
+	"naps_category":{
+		"Description":"category of image from NAPS"
+	},
+	"valence":{
+		"Description":"emotional category of image",
+		"Levels":{
+			"1":"neutral",
+			"2":"positive",
+			"3":"negative"
+		}
+	},
+	"response":{
+		"Description":"response provided by participant",
+		"Levels":{
+			"1":"remember",
+			"3":"know",
+			"4":"new"
+		}
+	},
+	"correct":{
+		"Description":"accuracy of response provided by participant",
+		"Levels":{
+			"1":"correct",
+			"0":"inccorrect"
+		}
+	},
+	"response_result":{
+		"Description":"result of response provided by participant",
+		"Levels":{
+			"hit":"correct hit or rejection",
+			"fa":"false alarm",
+			"miss":"missed image"
+		}
+	}
+}

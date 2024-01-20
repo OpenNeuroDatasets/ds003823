@@ -1,0 +1,29 @@
+1.3.3 2023-04-04
+  - Add the data dictionary json files in derivatives folder
+1.3.2 2023-03-27
+  - Add the VOI information in /derivatives/MRS/MRS_summary.tsv file
+1.3.1 2023-03-27
+  - Update the participants.tsv and json filesfile
+  - Add the note about different scan parameters in /sub-8013/ses-pre/anat/sub-8013_ses-pre_acq-lc_T1w.nii.gz
+  - Update Authors, How to acknowledge, and References and Links
+1.3.0 2023-03-21
+  - Add blood plasma data in phenotype folder; plasma_ab_tau_summary.tsv
+  - Correct file name for multi-echo scans
+  - Update the participants.tsv file by adding blood plasma data column
+1.2.5 2023-01-15
+  - Corrected data description reference citation
+1.2.4 2023-01-15
+  - Included reference to Data Description paper preprint
+1.2.3 2022-11-30
+  - Add /derivatives/MRS/MRS_summary.tsv file
+1.2.2 2022-09-30
+  - Update the MRS data
+1.2.1 2022-09-15
+  - Update participants.tsv file
+  - Update /phenotype/questionnaires_summary.tsv file and questionnaires_summary.json file (2022-9-26)
+1.2.0 2022-09-11
+  - Upload all data for all session for all age groups.
+1.1.0 2022-04-28
+  - This is the first release version that includes just baseline data corresponding with the Min et al., (2022) published findings.
+1.0.0 2021-11-09
+  - Upload all data

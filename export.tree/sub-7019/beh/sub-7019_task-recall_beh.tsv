@@ -1,0 +1,6 @@
+participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
+7019	1	2	1	child_in_hospital_bed_with_breathing_tube	B	Faces_011_h	Negative	1
+7019	1	2	2	pond_of_water_from_above_with_pollution	B	Objects_144_h	Negative	1
+7019	1	2	3	desolated_shack_in_a_field	B	Landscapes_019_h	Neutral	1
+7019	1	2	4	2_goats_with_one_sticking_his_head_toward_the_camera	B	Animals_165_h	Positive	1
+7019	1	2	5	closeup_of_window	B	Objects_210_h	Neutral	1

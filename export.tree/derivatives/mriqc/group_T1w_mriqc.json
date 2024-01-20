@@ -1,0 +1,25 @@
+{
+  "participant_id":{
+    "Description":"participant_id",
+    "Units":""
+  },
+  "session":{
+    "Description":"scan time",
+    "Levels":{
+      "pre":"pre-intervention",
+      "post":"post-intervention"
+    }
+  },
+  "task":{
+    "Description":"scan name",
+    "Units":""
+  },
+  "bids_meta.modality":{
+    "Description":"modality",
+    "Units":""
+  },
+  "IQMs":{
+    "Description":"Image quality metrics: please see the mriqc documentation https://mriqc.readthedocs.io/en/latest/iqms/t1w.html",
+    "Units":""
+  }
+}
