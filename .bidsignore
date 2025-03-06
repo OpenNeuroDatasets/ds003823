@@ -12,4 +12,4 @@
 readme_ultimatum_game.txt
 readme_anat-lc.txt
 /sub-8013/ses-pre/anat/sub-8013_ses-pre_acq-lc_T1w.*
-/task-stress_physio.json
+/task-*.json
