@@ -1,9 +1,0 @@
-participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
-7016	1	2	1	kid_on_the_water_slide	B	Faces_132_h	Positive	1
-7016	1	2	2	trash_can_that_was_broken_at_the_lid	B	Objects_188_v	Negative	1
-7016	1	2	3	the_white_and_black_butterfly	B	Animals_093_h	Neutral	1
-7016	1	2	4	a_car_crash_that_person_was_injured	B	NO	n/a	0
-7016	1	2	5	a_black_young_lady_seating_with_the_scarf_on	B	Faces_197_v	Neutral	1
-7016	1	2	6	a_road_in_which_the_cement_was_crake	B	NO	n/a	0
-7016	1	2	7	pieces_of_metal_on_the_side_of_the_street	B	NO	n/a	0
-7016	1	2	8	a_man_with_a_sign_of_distress	B	NO	n/a	0
