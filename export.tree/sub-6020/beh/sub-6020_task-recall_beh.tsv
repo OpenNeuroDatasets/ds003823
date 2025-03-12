@@ -1,9 +1,0 @@
-participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
-6020	2	1	1	A_kid_on_a_water_slide	B	Faces_132_h	Positive	1
-6020	2	1	2	A_guy_with_red_color_on_his_face	B	NO	n/a	0
-6020	2	1	3	A_cow_or_a_calf_with_some_blood_on_its_limbs	B	Animals_029_v	Negative	1
-6020	2	1	4	Muddy_puddle	B	Objects_144_h	Negative	1
-6020	2	1	5	Some_hilly_area_with_serene_background_and_wooden_fence	B	Landscapes_019_h	Neutral	1
-6020	2	1	6	A_tourist_couple_on_some_street	B	Faces_306_v	Neutral	1
-6020	2	1	7	Lot_of_old_and_rusted_machine_parts	B	Landscapes_006_h	Negative	1
-6020	2	1	8	Baby_in_hospital_with_tube_attached_to_his_nose	B	Faces_011_h	Negative	1

@@ -1,6 +1,0 @@
-participant_id	group	age_category	item	recall_response	set	final_code	valence	correct
-5001	1	1	1	bloody_animal_leg	B	Animals_029_v	Negative	1
-5001	1	1	2	delicious_pizza	B	Objects_078_h	Positive	1
-5001	1	1	3	old_man_siting_on_a_wooden_chair	B	People_159_h	Neutral	1
-5001	1	1	4	a_dead_flea_floating_on_a_disgusting_dirty_river	B	NO	n/a	0
-5001	1	1	5	a_girl_with_a_happy_face	B	NO	n/a	0
