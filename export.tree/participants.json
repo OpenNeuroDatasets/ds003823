@@ -1,0 +1,400 @@
+{
+  "participant_id":{
+    "Description":"participant id",
+    "Units":""
+  },
+  "age_group":{
+    "Description":"group by age",
+    "Levels":{
+      "YA":"younger adults",
+      "OA":"older adults"
+    }
+  },
+  "gender":{
+    "Description":"gender",
+    "Levels":{
+      "F":"female",
+      "M":"male"
+    }
+  },
+  "handedness":{
+    "Description":"handedness",
+    "Levels":{
+      "R":"right-handed",
+      "L":"Left-handed"
+    }
+  },
+  "condition":{
+    "Description":"experimental condition",
+    "Levels":{
+      "increase_HRV":"HRV oscillation increase condition",
+      "decrease_HRV":"HRV oscillation decrease conditions"
+    }
+  },
+  "MRI_pre":{
+    "Description":"MRI data at pre session exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "MRI_post":{
+    "Description":"MRI data at post session exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "Questionnaire":{
+    "Description":"any of questionnaire data exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "sleep":{
+    "Description":"sleep data exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "BloodPlasma":{
+    "Description":"Blood Plasma data exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "ses-pre_task-NIHcognition":{
+    "Description":"NIHcognition data at pre session exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "ses-post_task-NIHcognition":{
+    "Description":"NIHcognition data at post session exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "ses-pre_task-SART":{
+    "Description":"Sustained Attention to Response Task data at pre session exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "ses-post_task-SART":{
+    "Description":"Sustained Attention to Response Task data at post session exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "task-recall":{
+    "Description":"recall data in picture memory task exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "task-recognition":{
+    "Description":"recognition data in picture memory task exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "ses-calibration_task-labHRV":{
+    "Description":"HRV data at lab calibration session exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "ses-pre_task-labHRV":{
+    "Description":"resting HRV data at pre session exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "ses-post_task-labHRV":{
+    "Description":"resting HRV data at pre session exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "ses-home_task-practice":{
+    "Description":"HRV data during home practice exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "ses-pre_task-stress":{
+    "Description":"stress task data at pre session exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "ses-post_task-stress":{
+    "Description":"stress task data at post session exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "ses-pre_anat-wholebrain":{
+    "Description":"T1w-structural MRI data at pre session exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "ses-post_anat-wholebrain":{
+    "Description":"T1w-structural MRI data at post session exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "ses-pre_anat-lc":{
+    "Description":"two-dimensional, multi-slice TSE MRI data for LC imaging at pre session exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "ses-post_anat-lc":{
+    "Description":"two-dimensional, multi-slice TSE MRI data for LC imaging at post session exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "ses-pre_task-rest":{
+    "Description":"resting-state BOLD MRI data at pre session exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "ses-post_task-rest":{
+    "Description":"multi-echo resting-state BOLD MRI data at post session exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "ses-pre_task-emotionRegulation":{
+    "Description":"multi-echo emotion regulation task BOLD MRI data at pre session exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "ses-post_task-emotionRegulation":{
+    "Description":"multi-echo emotion regulation task BOLD MRI data at post session exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "ses-pre_task-rest_ASL":{
+    "Description":"resting-state ASL MRI data at pre session exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "ses-post_task-rest_ASL":{
+    "Description":"resting-state ASL MRI data at post session exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "ses-post_task-trainingMimicking":{
+    "Description":"multi-echo training mimicking task BOLD MRI data at post session exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "ses-post_task-trainingMimicking_ASL":{
+    "Description":"training mimicking task ASL MRI data at post session exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "ses-post_task-ultimatumGame_behavior":{
+    "Description":"ultimatum game task behavioral data during scan at post session exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "ses-post_task-ultimatumGame":{
+    "Description":"multi-echo tultimatum game task BOLD MRI data at post session exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "ses-pre_task-MRS":{
+    "Description":"MRS data at pre session exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "ses-post_task-MRS_1st":{
+    "Description":"MRS data at post session exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "ses-post_task-MRS_2nd":{
+    "Description":"MRS data from optional 2nd scan at post session exist ",
+    "Levels":{
+      "1":"exist",
+      "0":"no"
+    }
+  },
+  "QC_ses-home_task-practice_1excludeRecommend_0goodTouse":{
+    "Description":"Quality control of HRV data during home practice",
+    "Levels":{
+      "1":"recommned to exclude due to early termination of participation",
+      "0":"good to use"
+    }
+  },
+  "QC_ses-pre_task-stress_1excludeRecommend_0goodTouse":{
+    "Description":"Quality control of stress task data at pre session",
+    "Levels":{
+      "1":"recommned to exclude",
+      "0":"good to use"
+    }
+  },
+  "QC_ses-post_task-stress_1excludeRecommend_0goodTouse":{
+    "Description":"Quality control of stress task data at post session",
+    "Levels":{
+      "1":"recommned to exclude",
+      "0":"good to use"
+    }
+  },
+  "QC_ses-pre_anat-wholebrain_1excludeRecommend_0goodTouse":{
+    "Description":"Quality control of T1w structural image data at pre session",
+    "Levels":{
+      "1":"recommned to exclude",
+      "0":"good to use"
+    }
+  },
+  "QC_ses-post_anat-wholebrain_1excludeRecommend_0goodTouse":{
+    "Description":"Quality control of T1w structural image data at post session",
+    "Levels":{
+      "1":"recommned to exclude",
+      "0":"good to use"
+    }
+  },
+  "QC_ses-pre_anat-lc_1excludeRecommend_0goodTouse":{
+    "Description":"Quality control of LC image data at pre session",
+    "Levels":{
+      "1":"recommned to exclude",
+      "0":"good to use"
+    }
+  },
+  "QC_ses-post_anat-lc_1excludeRecommend_0goodTouse":{
+    "Description":"Quality control of LC image data at post session",
+    "Levels":{
+      "1":"recommned to exclude",
+      "0":"good to use"
+    }
+  },
+  "QC_ses-pre_task-rest_1excludeRecommend_0goodTouse":{
+    "Description":"Quality control of resting state scan data at pre session",
+    "Levels":{
+      "1":"recommned to exclude",
+      "0":"good to use"
+    }
+  },
+  "QC_ses-post_task-rest_1excludeRecommend_0goodTouse":{
+    "Description":"Quality control of resting state scan data at post session",
+    "Levels":{
+      "1":"recommned to exclude",
+      "0":"good to use"
+    }
+  },
+  "QC_ses-pre_task-emotionRegulation_1excludeRecommend_0goodTouse":{
+    "Description":"Quality control of emotion regulation scan data at pre session",
+    "Levels":{
+      "1":"recommned to exclude",
+      "0":"good to use"
+    }
+  },
+  "QC_ses-post_task-emotionRegulation_1excludeRecommend_0goodTouse":{
+    "Description":"Quality control of emotion regulation scan data at post session",
+    "Levels":{
+      "1":"recommned to exclude",
+      "0":"good to use"
+    }
+  },
+  "QC_ses-pre_task-rest_ASL_1excludeRecommend_0goodTouse":{
+    "Description":"Quality control of resting ASL scan data at pre session",
+    "Levels":{
+      "1":"recommned to exclude",
+      "0":"good to use"
+    }
+  },
+  "QC_ses-post_task-rest_ASL_1excludeRecommend_0goodTouse":{
+    "Description":"Quality control of resting ASL scan data at post session",
+    "Levels":{
+      "1":"recommned to exclude",
+      "0":"good to use"
+    }
+  },
+  "QC_ses-post_task-trainingMimicking_1excludeRecommend_0goodTouse":{
+    "Description":"Quality control of training mimicking scan data at post session",
+    "Levels":{
+      "1":"recommned to exclude",
+      "0":"good to use"
+    }
+  },
+  "QC_ses-post_task-trainingMimicking_ASL_1excludeRecommend_0goodTouse":{
+    "Description":"Quality control of training mimicking ASL scan data at post session",
+    "Levels":{
+      "1":"recommned to exclude",
+      "0":"good to use"
+    }
+  },
+  "QC_ses-post_task-ultimatumGame_1excludeRecommend_0goodTouse":{
+    "Description":"Quality control of ultimatum Game scan data at post session",
+    "Levels":{
+      "1":"recommned to exclude",
+      "0":"good to use"
+    }
+  },
+  "note_ses-pre_MRIdata":{
+    "Description":"participant id",
+    "Units":""
+  },
+  "note_ses-post_MRIdata":{
+    "Description":"participant id",
+    "Units":""
+  },
+  "note-ses-home-practice":{
+    "Description":"participant id",
+    "Units":""
+  },
+  "note_ses-pre_anat-lc":{
+    "Description":"participant id",
+    "Units":""
+  }
+}
